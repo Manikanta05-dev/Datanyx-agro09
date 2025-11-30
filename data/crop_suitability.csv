@@ -1,0 +1,1001 @@
+district,crop,soil_ph,soil_type,rainfall,temperature,irrigation,yield_per_acre,distance_to_city,suitability_score
+Karimnagar,Pea Protein,6.05,Clay Loam,1001.7,26.9,1,890.0,21.0,0.995
+Adilabad,Millets,5.93,Sandy Loam,885.8,16.1,1,2581.1,50.3,0.875
+Nalgonda,Soy,7.33,Sandy Loam,306.4,15.5,0,2029.6,36.5,0.646
+Hindupur,Lentils,7.28,Sandy Loam,341.8,27.2,0,1626.2,12.5,0.772
+Nizamabad,Oats,6.41,Sandy,387.9,28.7,0,2208.2,125.9,0.586
+Adilabad,Chickpea,6.28,Loamy,896.3,21.2,1,1019.9,117.9,0.844
+Kurnool,Blackbeans,8.32,Sandy Loam,1105.3,27.0,1,1316.4,118.4,0.828
+Nizamabad,Mungbean,6.67,Clay Loam,544.2,31.6,1,2913.1,125.3,0.731
+Nizamabad,Soy,8.46,Loamy,995.0,19.0,1,535.2,47.8,0.885
+Adilabad,Chickpea,7.81,Clay,366.6,22.2,0,2787.4,171.5,0.505
+Kurnool,Soy,7.69,Clay Loam,873.8,32.7,0,1457.3,194.6,0.591
+Hindupur,Soy,7.18,Clay Loam,993.9,24.9,0,2276.7,31.1,0.942
+Hindupur,Lentils,6.44,Loamy,757.7,33.2,0,2011.0,112.6,0.702
+Mahabubnagar,Lentils,7.58,Clay,1092.4,27.5,1,2083.5,175.6,0.778
+Mahabubnagar,Blackbeans,6.57,Sandy Loam,1116.1,20.4,0,1567.8,165.4,0.682
+Nizamabad,Chickpea,6.75,Clay,499.9,17.4,1,1110.3,42.0,0.834
+Adilabad,Kidneybeans,6.59,Sandy Loam,1174.6,34.2,1,2240.8,145.3,0.766
+Nalgonda,Soy,6.3,Loamy,1179.0,23.2,0,1196.6,182.6,0.668
+Hindupur,Oats,6.97,Clay Loam,1187.1,19.8,1,702.1,80.2,0.926
+Anantapur,Quinoa,7.4,Clay Loam,870.2,25.7,1,2495.9,38.6,1.0
+Warangal,Chickpea,6.48,Sandy Loam,498.2,29.2,0,1066.2,132.6,0.616
+Mahabubnagar,Kidneybeans,6.69,Loamy,766.0,31.8,0,1352.7,31.6,0.855
+Karimnagar,Blackbeans,6.19,Clay,457.5,34.6,1,1824.1,56.0,0.745
+Nalgonda,Millets,6.07,Clay,551.0,29.0,1,2742.8,178.5,0.645
+Adilabad,Soy,5.75,Sandy Loam,445.5,33.0,1,1951.7,80.7,0.695
+Nizamabad,Chickpea,5.52,Loamy,444.7,26.0,1,1621.1,198.9,0.574
+Mahabubnagar,Soy,6.21,Sandy Loam,592.9,29.9,1,2360.4,147.0,0.708
+Anantapur,Chickpea,6.96,Clay Loam,1115.5,23.7,0,1756.6,119.6,0.805
+Anantapur,Millets,7.67,Sandy Loam,552.7,15.5,0,609.0,199.0,0.476
+Nalgonda,Quinoa,7.74,Clay,1157.8,21.6,1,2916.6,193.1,0.734
+Anantapur,Pea Protein,6.66,Clay Loam,1066.0,21.3,1,1431.7,85.0,0.916
+Warangal,Blackbeans,7.21,Clay,387.5,27.3,1,1396.6,58.3,0.823
+Medak,Oats,7.72,Sandy,927.3,29.0,1,1882.0,66.3,0.919
+Medak,Chickpea,8.1,Sandy,1121.9,25.2,0,2069.7,46.9,0.864
+Adilabad,Chickpea,7.24,Sandy Loam,694.6,28.4,0,1664.0,113.1,0.743
+Warangal,Blackbeans,5.59,Sandy,333.6,31.5,1,1842.7,72.1,0.672
+Adilabad,Millets,6.15,Sandy Loam,860.6,16.7,0,986.0,88.2,0.736
+Hindupur,Lentils,5.9,Sandy Loam,1172.6,29.3,0,2488.0,61.5,0.802
+Medak,Lentils,5.58,Sandy,1166.4,31.7,0,2221.2,21.1,0.82
+Medak,Soy,6.22,Sandy,384.5,18.7,0,1199.8,191.4,0.449
+Karimnagar,Millets,6.76,Clay Loam,523.0,22.1,0,800.4,75.0,0.741
+Nalgonda,Soy,6.03,Sandy Loam,315.4,30.3,0,1683.7,42.9,0.646
+Nalgonda,Lentils,7.35,Sandy,871.6,15.9,0,538.3,187.4,0.608
+Anantapur,Mungbean,7.55,Clay Loam,854.3,33.9,1,566.3,121.3,0.798
+Mahabubnagar,Mungbean,6.66,Sandy Loam,879.0,24.2,0,2551.6,128.9,0.779
+Anantapur,Soy,6.12,Sandy,546.6,19.3,1,545.6,27.9,0.856
+Hindupur,Lentils,7.47,Loamy,646.9,28.6,1,2536.2,63.6,0.884
+Mahabubnagar,Blackbeans,6.55,Clay Loam,1143.0,15.8,0,2508.7,63.6,0.786
+Medak,Millets,7.21,Loamy,818.3,29.6,1,1430.0,157.5,0.806
+Adilabad,Lentils,6.22,Clay Loam,911.9,29.8,0,757.8,181.5,0.635
+Mahabubnagar,Kidneybeans,8.19,Clay Loam,650.3,15.2,0,2617.9,77.4,0.662
+Mahabubnagar,Chickpea,7.4,Sandy,703.6,20.9,0,1884.3,50.4,0.824
+Nalgonda,Lentils,5.84,Loamy,1137.8,34.5,1,1873.8,93.9,0.798
+Karimnagar,Oats,7.56,Sandy Loam,1053.3,32.3,1,710.3,143.2,0.78
+Medak,Kidneybeans,8.18,Sandy,431.9,25.3,1,2966.6,81.1,0.77
+Anantapur,Quinoa,6.21,Sandy Loam,1116.9,26.8,1,1440.6,25.9,0.998
+Warangal,Lentils,6.25,Clay,597.2,23.7,0,528.4,99.0,0.719
+Medak,Pea Protein,7.8,Sandy Loam,1040.5,29.9,0,1958.4,192.8,0.616
+Anantapur,Kidneybeans,6.17,Loamy,1166.9,15.2,1,1890.0,71.3,0.848
+Warangal,Millets,8.26,Clay,527.7,28.9,0,1807.7,129.6,0.593
+Anantapur,Millets,8.2,Clay,340.9,20.6,1,644.7,85.0,0.688
+Adilabad,Millets,6.06,Sandy,717.3,22.1,1,1164.8,78.5,0.869
+Mahabubnagar,Quinoa,6.34,Loamy,670.1,27.1,1,906.5,183.1,0.718
+Warangal,Oats,7.68,Clay,852.1,23.4,1,2691.7,114.8,0.873
+Nalgonda,Lentils,7.83,Loamy,732.3,34.7,0,1985.3,82.4,0.706
+Warangal,Soy,5.69,Clay Loam,333.1,17.7,0,640.9,174.3,0.415
+Anantapur,Millets,8.49,Clay Loam,799.9,30.4,0,2392.7,81.8,0.738
+Nalgonda,Kidneybeans,8.36,Loamy,845.6,19.6,0,2392.5,18.9,0.84
+Adilabad,Lentils,6.99,Sandy,728.6,31.6,1,2630.5,114.9,0.834
+Nalgonda,Kidneybeans,5.9,Loamy,325.9,30.1,0,2098.4,163.0,0.464
+Karimnagar,Quinoa,8.44,Sandy Loam,847.3,27.7,0,1593.7,181.8,0.618
+Mahabubnagar,Kidneybeans,7.85,Loamy,656.9,27.4,0,2244.1,161.3,0.631
+Medak,Mungbean,6.98,Loamy,532.4,24.2,1,2052.0,76.0,0.876
+Hindupur,Kidneybeans,5.92,Clay,876.8,18.6,1,1529.2,176.1,0.71
+Kurnool,Blackbeans,5.62,Clay,452.0,20.6,0,579.5,114.3,0.575
+Nalgonda,Kidneybeans,6.12,Sandy Loam,627.8,25.1,0,1304.0,27.5,0.843
+Nizamabad,Quinoa,8.26,Clay,355.0,20.5,0,711.3,123.5,0.531
+Mahabubnagar,Mungbean,7.78,Sandy,778.1,29.4,1,591.7,58.0,0.916
+Karimnagar,Chickpea,7.1,Clay,396.5,23.9,0,1492.9,29.9,0.788
+Karimnagar,Millets,5.56,Sandy Loam,589.9,19.2,1,1838.3,54.3,0.8
+Mahabubnagar,Kidneybeans,6.57,Sandy Loam,883.9,24.6,1,1842.8,121.5,0.889
+Adilabad,Mungbean,7.19,Loamy,640.9,21.7,1,2114.8,118.4,0.819
+Adilabad,Quinoa,8.3,Clay Loam,306.8,19.5,1,1114.9,40.5,0.725
+Adilabad,Lentils,5.74,Loamy,772.1,23.2,1,2993.1,180.4,0.729
+Mahabubnagar,Pea Protein,6.97,Loamy,950.6,31.4,1,1891.9,118.6,0.856
+Hindupur,Millets,6.47,Sandy,682.9,25.2,0,1824.6,144.4,0.708
+Warangal,Millets,8.3,Clay,588.6,26.9,1,1341.5,35.5,0.875
+Karimnagar,Blackbeans,6.11,Sandy Loam,916.1,16.8,0,2203.8,154.4,0.635
+Adilabad,Quinoa,6.55,Clay,1136.6,31.6,1,1521.3,187.3,0.727
+Nizamabad,Oats,6.64,Sandy Loam,1133.8,29.4,1,2604.6,36.6,0.98
+Nizamabad,Millets,5.99,Sandy Loam,447.8,31.3,0,2084.4,182.5,0.474
+Nizamabad,Blackbeans,7.55,Loamy,706.8,29.3,1,1656.7,67.3,0.89
+Karimnagar,Soy,6.57,Loamy,652.3,25.6,0,2766.2,128.6,0.721
+Hindupur,Quinoa,7.38,Clay,601.4,17.8,0,2696.6,104.1,0.675
+Karimnagar,Pea Protein,5.96,Clay Loam,580.5,20.0,0,857.8,48.9,0.734
+Kurnool,Blackbeans,8.13,Clay Loam,607.9,31.4,0,1447.1,96.8,0.654
+Mahabubnagar,Mungbean,7.12,Clay Loam,737.7,23.2,0,2300.1,131.8,0.754
+Hindupur,Pea Protein,7.65,Sandy Loam,839.1,31.5,1,2771.1,120.8,0.816
+Adilabad,Lentils,8.34,Sandy,438.0,26.7,1,752.0,58.6,0.782
+Adilabad,Pea Protein,7.87,Sandy Loam,320.7,28.0,0,1940.7,125.3,0.552
+Warangal,Chickpea,5.81,Clay Loam,1056.4,33.2,0,783.1,197.1,0.554
+Mahabubnagar,Quinoa,6.5,Loamy,580.3,19.5,0,1497.5,20.4,0.804
+Nizamabad,Blackbeans,7.86,Sandy Loam,843.3,17.3,1,1843.5,184.8,0.696
+Kurnool,Lentils,6.94,Sandy,1126.6,26.7,0,1631.1,36.8,0.924
+Adilabad,Kidneybeans,6.76,Sandy Loam,1123.4,22.2,0,1194.0,51.8,0.881
+Kurnool,Millets,6.03,Loamy,1165.0,18.0,1,2651.6,111.7,0.807
+Adilabad,Soy,6.43,Loamy,657.6,23.5,1,2745.1,49.0,0.926
+Anantapur,Mungbean,5.7,Clay,998.0,24.1,1,1836.1,101.4,0.864
+Warangal,Chickpea,6.05,Sandy Loam,1075.6,33.9,1,1180.8,180.5,0.685
+Kurnool,Soy,8.02,Sandy Loam,1080.3,23.2,0,1054.9,53.9,0.842
+Adilabad,Quinoa,7.9,Loamy,460.7,28.1,0,2302.0,163.0,0.546
+Adilabad,Mungbean,8.39,Clay,1150.0,17.8,1,1232.9,180.3,0.678
+Karimnagar,Blackbeans,6.12,Loamy,323.9,18.6,1,2107.3,143.7,0.592
+Anantapur,Millets,6.51,Sandy Loam,1042.6,22.3,0,1170.2,128.6,0.752
+Warangal,Kidneybeans,8.08,Sandy,497.6,34.5,1,850.3,175.0,0.567
+Adilabad,Lentils,6.95,Loamy,761.2,29.8,1,2083.7,59.0,0.946
+Warangal,Quinoa,6.77,Clay,419.0,33.0,1,1180.8,13.5,0.843
+Kurnool,Millets,7.23,Sandy,546.6,26.1,0,1743.7,146.8,0.661
+Nalgonda,Blackbeans,6.29,Clay Loam,539.8,29.6,1,2001.3,136.4,0.711
+Karimnagar,Blackbeans,8.01,Clay Loam,663.9,30.4,1,617.4,41.6,0.874
+Anantapur,Chickpea,7.31,Clay Loam,520.8,22.8,1,1593.0,183.9,0.68
+Karimnagar,Mungbean,8.35,Clay,657.0,34.1,1,2331.4,50.8,0.802
+Mahabubnagar,Pea Protein,7.29,Clay,346.3,24.9,0,886.7,128.4,0.62
+Kurnool,Millets,5.73,Loamy,955.4,24.9,0,1995.7,97.3,0.78
+Hindupur,Chickpea,7.9,Sandy,925.2,20.4,1,757.7,69.8,0.898
+Anantapur,Soy,7.57,Sandy,769.2,16.7,1,2682.4,149.1,0.749
+Nalgonda,Soy,7.58,Clay Loam,1064.3,20.0,0,2116.7,141.7,0.704
+Nizamabad,Blackbeans,7.26,Sandy,1199.4,26.1,1,2788.7,16.4,1.0
+Nalgonda,Lentils,6.08,Loamy,403.8,23.4,0,1685.5,173.8,0.522
+Karimnagar,Chickpea,7.07,Sandy,880.1,28.0,1,1075.0,32.9,1.0
+Kurnool,Chickpea,7.09,Clay Loam,696.9,23.1,0,1288.2,112.5,0.768
+Warangal,Kidneybeans,7.38,Clay Loam,1097.4,27.3,1,1543.8,97.8,0.909
+Kurnool,Lentils,7.09,Clay Loam,1145.2,31.0,0,523.7,20.0,0.905
+Anantapur,Millets,7.38,Sandy Loam,1086.3,34.7,1,729.2,73.9,0.87
+Mahabubnagar,Millets,6.22,Loamy,399.4,22.1,1,2632.1,146.0,0.657
+Nalgonda,Kidneybeans,8.23,Loamy,340.6,17.2,0,2199.1,51.5,0.602
+Medak,Millets,6.28,Clay Loam,829.7,34.6,0,2861.8,98.8,0.714
+Kurnool,Kidneybeans,5.69,Sandy Loam,661.4,31.8,1,2019.3,107.4,0.745
+Medak,Oats,6.16,Loamy,467.8,30.6,1,2501.9,129.7,0.677
+Karimnagar,Soy,8.28,Loamy,1195.4,18.5,1,1788.1,103.3,0.806
+Anantapur,Mungbean,7.95,Clay,502.0,19.5,0,587.2,180.0,0.509
+Nalgonda,Oats,8.13,Clay,539.0,17.6,0,610.9,171.9,0.505
+Medak,Kidneybeans,7.15,Loamy,378.3,23.2,0,512.7,142.2,0.602
+Medak,Oats,6.16,Clay Loam,914.9,16.5,0,653.8,177.8,0.601
+Hindupur,Blackbeans,6.54,Clay,910.2,26.3,0,2334.8,109.0,0.797
+Adilabad,Soy,8.1,Clay,937.5,31.7,0,2825.2,30.1,0.824
+Warangal,Lentils,8.14,Clay Loam,1084.7,15.6,0,512.9,165.8,0.592
+Nalgonda,Lentils,7.95,Sandy,1048.9,25.1,0,982.8,26.0,0.905
+Anantapur,Kidneybeans,5.85,Loamy,639.0,15.2,0,2449.6,30.3,0.73
+Karimnagar,Blackbeans,8.39,Loamy,607.7,27.7,1,2384.2,159.9,0.682
+Mahabubnagar,Pea Protein,8.34,Sandy,449.7,30.4,0,1955.4,75.7,0.624
+Medak,Mungbean,8.06,Clay,1191.1,28.5,1,2374.1,34.7,0.952
+Karimnagar,Soy,6.26,Clay,300.9,18.2,1,2992.8,91.0,0.666
+Nizamabad,Lentils,7.58,Clay Loam,498.7,16.6,1,1075.1,35.0,0.818
+Hindupur,Soy,5.59,Sandy Loam,958.1,33.2,0,2096.3,85.5,0.709
+Nizamabad,Millets,6.44,Clay,588.7,29.5,1,1032.8,15.9,0.92
+Nizamabad,Mungbean,7.19,Sandy Loam,724.4,25.9,1,963.8,175.0,0.79
+Nalgonda,Mungbean,8.03,Clay,984.9,27.5,1,1235.4,183.2,0.741
+Medak,Chickpea,7.89,Sandy Loam,733.4,17.3,0,2018.3,57.0,0.762
+Nizamabad,Quinoa,5.98,Loamy,886.4,21.5,1,2493.9,69.0,0.904
+Anantapur,Mungbean,5.72,Clay Loam,653.2,24.6,0,2304.7,134.8,0.665
+Nizamabad,Soy,7.84,Sandy Loam,335.7,24.6,1,864.8,29.5,0.83
+Warangal,Quinoa,7.61,Sandy Loam,803.7,15.2,1,681.0,111.5,0.8
+Nizamabad,Soy,5.74,Clay Loam,657.2,17.7,0,1002.1,141.7,0.588
+Kurnool,Blackbeans,5.81,Sandy Loam,872.8,29.1,1,1986.9,127.2,0.8
+Nizamabad,Oats,8.11,Sandy Loam,942.7,31.0,1,2030.6,102.0,0.823
+Mahabubnagar,Pea Protein,7.85,Sandy,732.8,15.8,1,2329.0,25.5,0.896
+Warangal,Lentils,5.98,Sandy Loam,1084.6,19.4,0,1675.5,151.4,0.658
+Karimnagar,Millets,5.99,Clay,318.8,28.1,0,2990.8,195.2,0.438
+Hindupur,Blackbeans,7.54,Clay,365.0,15.6,0,2601.1,43.1,0.647
+Nalgonda,Blackbeans,8.04,Clay Loam,865.9,29.7,1,2969.1,17.6,0.967
+Anantapur,Chickpea,6.82,Loamy,952.7,24.7,1,1994.3,160.7,0.846
+Karimnagar,Blackbeans,7.28,Clay,1121.1,19.2,0,1664.5,168.8,0.673
+Anantapur,Chickpea,7.65,Sandy,1118.1,18.6,1,1432.1,107.4,0.838
+Nalgonda,Millets,6.81,Clay Loam,387.7,23.1,1,1787.0,78.3,0.798
+Kurnool,Lentils,6.67,Loamy,1172.5,20.2,0,522.6,121.8,0.75
+Adilabad,Pea Protein,6.21,Clay Loam,511.2,32.7,1,924.4,108.8,0.707
+Medak,Kidneybeans,6.85,Loamy,829.1,34.0,0,917.6,41.8,0.839
+Nizamabad,Millets,7.1,Clay Loam,1003.6,29.1,1,1963.4,175.0,0.791
+Mahabubnagar,Oats,5.87,Sandy,508.0,16.0,0,805.3,95.9,0.592
+Nalgonda,Millets,7.02,Loamy,337.4,18.0,0,1699.7,140.3,0.544
+Kurnool,Kidneybeans,8.42,Sandy,822.1,20.1,0,1722.1,136.7,0.665
+Mahabubnagar,Lentils,5.93,Clay Loam,1145.8,29.7,1,2924.8,27.8,0.951
+Adilabad,Quinoa,8.39,Clay Loam,529.8,28.2,0,2861.5,139.8,0.577
+Kurnool,Oats,7.99,Loamy,1078.1,30.4,0,2827.4,141.0,0.678
+Anantapur,Soy,8.32,Clay,1044.2,28.3,0,766.5,135.0,0.689
+Kurnool,Quinoa,8.1,Loamy,1194.0,30.0,0,1917.5,150.3,0.661
+Mahabubnagar,Oats,7.8,Clay Loam,1133.1,23.8,1,2405.7,161.6,0.8
+Hindupur,Soy,6.49,Loamy,867.2,27.2,0,2238.7,83.8,0.823
+Nizamabad,Soy,7.14,Loamy,700.0,15.3,0,2008.6,137.0,0.652
+Medak,Oats,6.64,Loamy,1077.0,25.4,1,2785.6,164.6,0.829
+Nizamabad,Millets,7.08,Sandy,521.5,24.5,0,2412.2,164.5,0.64
+Kurnool,Millets,5.52,Clay,882.7,33.0,0,2136.7,82.2,0.713
+Mahabubnagar,Millets,6.55,Clay Loam,391.3,24.7,1,1807.7,137.3,0.712
+Hindupur,Mungbean,7.33,Sandy,944.5,20.5,1,2557.9,109.3,0.872
+Karimnagar,Blackbeans,6.05,Clay Loam,565.8,30.9,0,1141.4,193.0,0.51
+Mahabubnagar,Quinoa,6.62,Loamy,773.8,17.2,0,2004.0,165.6,0.643
+Warangal,Kidneybeans,6.14,Sandy,849.9,23.2,0,2764.7,156.3,0.698
+Anantapur,Blackbeans,7.84,Clay,547.3,31.5,1,2178.6,163.8,0.647
+Hindupur,Pea Protein,6.86,Sandy,827.9,18.4,0,2673.1,99.8,0.776
+Nalgonda,Soy,7.43,Clay Loam,846.4,25.9,1,1142.2,130.1,0.871
+Nizamabad,Kidneybeans,6.32,Sandy,837.3,28.5,1,1570.5,146.3,0.807
+Anantapur,Lentils,7.96,Sandy Loam,842.9,21.7,1,1185.4,25.1,0.975
+Adilabad,Millets,7.29,Loamy,661.1,22.3,1,1387.5,23.2,0.97
+Anantapur,Oats,7.9,Sandy Loam,510.3,25.8,1,1982.0,139.2,0.723
+Medak,Chickpea,8.48,Sandy,895.7,26.2,1,1615.9,73.4,0.894
+Warangal,Blackbeans,8.38,Sandy Loam,871.5,30.1,0,1839.6,28.4,0.827
+Nizamabad,Lentils,6.54,Sandy Loam,898.4,30.9,1,1456.3,32.8,0.966
+Hindupur,Mungbean,7.71,Clay Loam,991.7,19.9,1,1802.4,128.5,0.815
+Kurnool,Mungbean,7.33,Loamy,756.2,18.2,0,590.4,67.6,0.795
+Kurnool,Oats,5.76,Loamy,1143.3,26.1,0,2563.2,63.1,0.824
+Medak,Pea Protein,7.05,Sandy,1127.5,24.9,1,1916.4,84.3,0.97
+Anantapur,Blackbeans,7.38,Sandy,906.9,25.6,1,2514.8,160.1,0.831
+Mahabubnagar,Kidneybeans,5.57,Clay Loam,438.4,19.5,1,2939.0,131.8,0.63
+Nizamabad,Oats,6.94,Loamy,582.4,27.1,0,2015.6,155.3,0.661
+Mahabubnagar,Chickpea,6.7,Clay,431.7,22.4,1,1695.6,106.2,0.759
+Mahabubnagar,Pea Protein,6.33,Sandy,1066.3,15.0,0,2049.0,133.5,0.662
+Hindupur,Chickpea,7.84,Clay Loam,713.8,16.2,0,2385.6,127.7,0.64
+Nizamabad,Lentils,6.01,Clay,367.2,30.7,1,752.6,141.5,0.612
+Anantapur,Pea Protein,8.49,Sandy Loam,1032.6,27.3,1,934.4,134.6,0.79
+Warangal,Lentils,5.89,Sandy,1097.9,24.0,0,1385.6,109.8,0.762
+Warangal,Lentils,6.66,Clay Loam,1167.4,20.0,1,1703.4,13.6,1.0
+Nalgonda,Blackbeans,6.07,Sandy,857.1,21.5,1,1103.0,195.4,0.718
+Kurnool,Millets,5.63,Clay Loam,634.3,20.3,0,1635.9,170.4,0.557
+Karimnagar,Millets,5.88,Sandy,1078.2,19.9,1,1690.0,81.4,0.863
+Mahabubnagar,Quinoa,7.86,Sandy,1102.9,34.1,0,2146.7,189.1,0.576
+Kurnool,Soy,8.29,Sandy,527.8,30.6,1,2093.0,135.3,0.665
+Warangal,Mungbean,7.34,Loamy,360.0,25.4,0,764.2,197.8,0.515
+Karimnagar,Millets,5.61,Clay Loam,971.6,28.2,0,678.1,12.3,0.871
+Nalgonda,Pea Protein,6.66,Clay Loam,715.8,34.8,1,2436.6,135.7,0.747
+Hindupur,Blackbeans,7.15,Clay Loam,1047.5,16.4,1,552.4,25.6,0.967
+Anantapur,Mungbean,8.43,Loamy,900.6,15.2,1,2037.5,157.2,0.685
+Nizamabad,Kidneybeans,6.93,Sandy,1106.2,21.4,1,1232.1,196.2,0.766
+Warangal,Millets,5.97,Sandy Loam,339.4,17.2,1,1061.5,80.7,0.669
+Medak,Kidneybeans,8.33,Sandy,516.6,17.4,1,1740.1,12.4,0.823
+Nalgonda,Chickpea,7.95,Sandy,1075.2,31.9,0,1860.0,130.9,0.68
+Nalgonda,Mungbean,5.66,Sandy Loam,588.1,30.1,0,2843.5,18.2,0.766
+Kurnool,Oats,7.56,Clay Loam,382.7,34.3,0,1764.6,169.7,0.464
+Warangal,Millets,7.73,Clay Loam,850.7,17.1,0,2222.2,175.9,0.616
+Nizamabad,Millets,7.17,Sandy,1030.6,29.8,0,2979.5,28.8,0.898
+Medak,Oats,6.43,Clay,968.1,31.3,0,970.1,77.5,0.788
+Nizamabad,Pea Protein,5.52,Sandy Loam,984.9,15.7,0,527.6,152.4,0.594
+Nalgonda,Kidneybeans,6.48,Sandy Loam,434.0,21.1,1,1755.1,33.7,0.844
+Mahabubnagar,Pea Protein,8.16,Sandy,833.7,22.8,0,504.7,43.9,0.846
+Medak,Quinoa,6.04,Sandy Loam,648.9,23.0,0,1702.4,132.0,0.671
+Adilabad,Millets,7.18,Sandy,804.6,27.1,1,1998.4,124.4,0.882
+Hindupur,Soy,5.68,Clay,600.8,30.7,1,1024.6,166.8,0.642
+Hindupur,Pea Protein,6.8,Loamy,379.7,19.4,0,2503.4,155.7,0.542
+Nizamabad,Quinoa,6.02,Clay Loam,873.8,24.9,0,795.8,87.9,0.811
+Karimnagar,Kidneybeans,7.26,Sandy,466.0,22.2,1,913.2,143.0,0.718
+Warangal,Quinoa,8.29,Loamy,1004.3,16.1,0,1574.1,175.8,0.574
+Nalgonda,Pea Protein,6.81,Loamy,1143.6,29.1,1,701.5,148.3,0.825
+Kurnool,Chickpea,7.84,Loamy,306.3,16.1,1,2025.6,35.7,0.725
+Mahabubnagar,Mungbean,8.37,Loamy,362.1,16.1,1,590.7,62.4,0.675
+Karimnagar,Mungbean,6.32,Sandy,983.5,24.0,0,1170.3,39.7,0.891
+Mahabubnagar,Mungbean,5.69,Clay,1115.8,17.8,1,1288.0,156.7,0.718
+Warangal,Oats,8.39,Clay,804.2,33.7,1,2569.7,159.7,0.694
+Nizamabad,Millets,8.44,Sandy,430.5,29.5,0,1913.3,98.1,0.587
+Nizamabad,Millets,6.55,Sandy Loam,402.7,18.0,1,1545.0,26.9,0.815
+Warangal,Lentils,7.07,Loamy,403.3,32.2,1,1856.4,160.4,0.635
+Anantapur,Soy,5.75,Sandy,712.5,24.7,0,852.4,136.2,0.688
+Nizamabad,Oats,6.89,Sandy,670.6,28.0,1,1226.5,159.5,0.776
+Warangal,Blackbeans,5.66,Clay,1007.7,19.0,0,2680.3,113.5,0.693
+Mahabubnagar,Pea Protein,7.48,Clay Loam,445.5,20.1,0,1628.1,197.1,0.495
+Medak,Soy,5.7,Sandy,717.5,33.2,0,1476.8,161.7,0.57
+Karimnagar,Pea Protein,6.69,Loamy,384.1,23.8,0,1009.4,109.4,0.65
+Adilabad,Kidneybeans,6.33,Sandy Loam,581.1,27.9,0,2787.7,111.3,0.684
+Medak,Pea Protein,6.0,Sandy Loam,852.1,22.3,0,1192.3,196.9,0.62
+Anantapur,Soy,7.7,Clay Loam,1038.3,21.3,1,2038.2,25.9,0.984
+Nizamabad,Lentils,6.75,Loamy,1185.7,28.4,0,1307.5,199.4,0.653
+Medak,Lentils,7.56,Clay,383.7,15.6,1,2725.6,25.1,0.78
+Nalgonda,Chickpea,6.51,Clay Loam,566.8,33.4,1,2275.6,69.7,0.796
+Kurnool,Kidneybeans,6.26,Clay Loam,1037.3,32.6,1,934.4,145.3,0.764
+Adilabad,Blackbeans,6.22,Loamy,427.8,22.0,0,978.2,126.6,0.595
+Karimnagar,Quinoa,8.02,Loamy,724.2,34.6,0,577.8,150.5,0.592
+Kurnool,Oats,7.56,Clay,362.7,18.5,0,2138.2,198.4,0.441
+Karimnagar,Lentils,7.58,Clay,761.4,21.1,0,671.3,155.0,0.681
+Nalgonda,Pea Protein,8.11,Sandy Loam,989.5,30.8,0,2747.1,133.6,0.678
+Warangal,Lentils,5.83,Clay,702.3,24.2,1,1454.0,34.5,0.937
+Hindupur,Pea Protein,5.63,Loamy,965.9,33.4,0,818.6,144.5,0.621
+Hindupur,Chickpea,7.6,Sandy,1055.5,34.6,1,2316.7,67.9,0.868
+Karimnagar,Kidneybeans,7.41,Sandy Loam,704.9,19.4,0,1851.7,28.3,0.842
+Nizamabad,Soy,6.4,Sandy Loam,838.5,20.9,0,2325.6,123.8,0.74
+Mahabubnagar,Mungbean,7.5,Sandy,833.9,32.8,0,2065.4,111.0,0.726
+Anantapur,Chickpea,8.49,Clay,1070.1,25.4,0,1130.8,51.8,0.833
+Anantapur,Millets,7.08,Clay Loam,329.4,32.4,1,2697.4,118.6,0.668
+Karimnagar,Mungbean,8.23,Sandy Loam,718.0,17.8,0,2731.3,94.2,0.685
+Adilabad,Millets,6.84,Clay,1009.9,27.8,0,1780.9,29.8,0.918
+Warangal,Chickpea,8.35,Sandy Loam,840.6,29.9,0,1172.4,87.3,0.743
+Warangal,Kidneybeans,6.59,Sandy,725.2,15.9,1,1097.1,99.2,0.809
+Nizamabad,Soy,6.09,Clay,849.7,20.6,1,1977.2,112.0,0.836
+Anantapur,Soy,8.03,Clay,556.4,24.3,0,1930.1,107.4,0.681
+Warangal,Kidneybeans,7.95,Loamy,556.1,31.4,0,1363.1,106.4,0.631
+Nizamabad,Lentils,7.53,Clay Loam,340.4,24.0,0,1186.8,85.0,0.66
+Hindupur,Mungbean,7.64,Clay Loam,847.1,21.2,0,2296.1,191.3,0.638
+Nalgonda,Mungbean,7.41,Loamy,346.0,20.2,0,601.4,175.6,0.494
+Kurnool,Oats,6.65,Sandy Loam,710.6,22.4,0,1990.8,114.4,0.749
+Anantapur,Soy,5.74,Sandy Loam,619.3,33.8,0,2115.2,132.8,0.573
+Hindupur,Blackbeans,5.92,Sandy,404.2,18.1,0,2309.9,32.9,0.671
+Kurnool,Quinoa,7.1,Clay,427.9,15.2,1,1831.2,95.3,0.714
+Karimnagar,Blackbeans,5.87,Clay Loam,802.8,21.9,0,2541.8,22.8,0.87
+Nalgonda,Quinoa,6.79,Clay,905.7,20.5,0,2654.4,122.2,0.76
+Kurnool,Chickpea,8.07,Clay,1125.0,23.6,1,2724.1,12.3,1.0
+Nizamabad,Quinoa,6.68,Sandy Loam,773.2,25.2,1,1576.3,37.1,1.0
+Adilabad,Soy,8.34,Loamy,605.8,25.3,1,2092.3,74.7,0.835
+Anantapur,Soy,7.09,Clay Loam,1057.6,26.6,1,1635.0,140.8,0.867
+Kurnool,Millets,7.1,Clay,422.2,17.0,1,577.4,83.7,0.747
+Medak,Chickpea,6.44,Sandy,432.4,24.8,1,2750.2,32.1,0.88
+Medak,Millets,8.17,Clay,842.6,31.5,0,720.5,125.3,0.68
+Mahabubnagar,Soy,8.41,Clay Loam,996.2,34.6,0,1884.3,112.9,0.654
+Warangal,Millets,8.02,Clay,620.6,31.5,0,986.6,21.0,0.778
+Nalgonda,Lentils,6.54,Sandy Loam,822.4,17.8,0,876.3,165.2,0.654
+Mahabubnagar,Chickpea,8.48,Clay Loam,1092.3,27.5,0,2481.3,97.7,0.744
+Karimnagar,Millets,8.06,Sandy Loam,939.8,33.1,0,2910.1,182.8,0.584
+Warangal,Quinoa,7.74,Clay Loam,794.4,16.2,1,1189.4,176.6,0.702
+Warangal,Soy,6.89,Clay,1182.9,24.7,1,1729.8,67.5,0.989
+Mahabubnagar,Quinoa,6.11,Clay,985.6,22.7,0,2796.8,78.8,0.808
+Anantapur,Chickpea,8.44,Clay Loam,666.8,31.6,0,1978.5,163.3,0.557
+Hindupur,Kidneybeans,5.51,Sandy Loam,876.2,21.0,1,656.1,177.9,0.708
+Nalgonda,Lentils,6.93,Sandy,918.9,29.5,1,1818.1,130.2,0.856
+Nalgonda,Oats,6.34,Loamy,489.6,34.1,0,2976.4,48.1,0.682
+Medak,Soy,7.71,Clay,1050.7,29.8,0,514.2,188.0,0.629
+Nizamabad,Soy,7.6,Sandy Loam,394.0,23.0,1,694.1,87.4,0.762
+Warangal,Chickpea,7.4,Clay,819.3,29.0,0,2887.8,109.3,0.774
+Kurnool,Mungbean,7.0,Loamy,1015.1,29.1,1,863.0,144.9,0.841
+Adilabad,Oats,7.91,Clay,1136.3,23.1,0,555.1,120.8,0.748
+Karimnagar,Soy,7.42,Loamy,1181.1,27.1,0,1540.3,154.3,0.724
+Anantapur,Lentils,7.26,Sandy,862.3,16.4,1,1815.7,98.0,0.853
+Mahabubnagar,Millets,5.93,Sandy Loam,997.8,20.4,0,896.6,177.6,0.627
+Adilabad,Oats,6.31,Clay,662.2,17.1,0,1777.8,18.9,0.801
+Warangal,Quinoa,5.69,Loamy,1055.4,15.1,0,2851.1,25.7,0.787
+Nizamabad,Soy,6.31,Clay,1058.4,21.3,1,2768.0,189.2,0.74
+Hindupur,Soy,7.53,Sandy Loam,404.4,15.8,0,1469.1,130.2,0.535
+Adilabad,Lentils,5.92,Sandy,528.8,32.5,0,2915.1,154.6,0.529
+Anantapur,Pea Protein,6.39,Loamy,394.8,30.6,1,2998.7,29.9,0.812
+Warangal,Lentils,8.1,Sandy Loam,728.4,17.2,1,1421.8,80.3,0.812
+Karimnagar,Kidneybeans,6.75,Clay Loam,1040.0,32.0,1,1427.9,175.3,0.753
+Warangal,Mungbean,7.89,Loamy,978.6,15.7,0,841.5,133.8,0.656
+Kurnool,Chickpea,8.42,Sandy Loam,347.0,28.6,1,998.0,179.1,0.544
+Hindupur,Kidneybeans,5.83,Loamy,764.3,20.4,0,2220.1,56.0,0.79
+Warangal,Mungbean,5.56,Sandy,411.9,23.3,0,2340.5,72.7,0.646
+Warangal,Pea Protein,6.89,Clay Loam,1167.1,25.4,1,2405.8,96.4,0.945
+Anantapur,Mungbean,8.43,Sandy Loam,413.0,15.3,0,1456.5,79.9,0.557
+Nalgonda,Quinoa,6.53,Clay Loam,965.1,19.5,0,1429.3,10.3,0.902
+Nalgonda,Pea Protein,8.42,Clay Loam,1062.4,15.5,0,2574.4,125.2,0.636
+Adilabad,Mungbean,6.69,Clay Loam,572.6,16.3,0,2843.4,124.6,0.623
+Karimnagar,Blackbeans,8.37,Sandy Loam,1148.5,30.7,1,2127.4,132.5,0.766
+Warangal,Kidneybeans,6.18,Loamy,476.2,17.8,1,2618.0,69.9,0.755
+Hindupur,Millets,6.66,Sandy Loam,906.7,20.2,0,2868.5,74.1,0.822
+Warangal,Kidneybeans,7.57,Loamy,921.1,33.6,1,2077.3,95.1,0.839
+Warangal,Soy,6.41,Sandy,985.0,22.1,1,2199.1,24.5,1.0
+Warangal,Quinoa,7.14,Sandy,462.3,24.2,0,914.4,94.7,0.715
+Anantapur,Soy,7.88,Clay,1068.4,19.8,1,772.2,130.9,0.802
+Adilabad,Blackbeans,6.16,Loamy,713.1,33.4,0,682.7,128.2,0.643
+Medak,Quinoa,7.99,Sandy Loam,958.9,22.1,0,2900.3,109.1,0.751
+Kurnool,Oats,8.06,Clay Loam,995.8,21.2,1,2101.5,136.7,0.796
+Mahabubnagar,Mungbean,7.81,Sandy,749.0,15.2,1,2461.1,81.6,0.814
+Medak,Millets,6.47,Sandy,1063.2,29.6,0,1134.6,56.7,0.839
+Hindupur,Blackbeans,6.37,Sandy Loam,658.1,33.4,0,1736.7,107.4,0.666
+Karimnagar,Soy,6.68,Clay,978.8,33.4,0,1610.9,62.4,0.804
+Anantapur,Oats,6.25,Clay Loam,807.7,22.2,1,2618.2,181.4,0.757
+Medak,Pea Protein,5.58,Sandy Loam,1055.8,30.0,0,590.0,43.3,0.804
+Kurnool,Mungbean,6.17,Clay Loam,688.2,29.4,1,1950.2,108.2,0.805
+Medak,Chickpea,5.93,Clay,687.1,33.1,1,2731.4,89.7,0.781
+Mahabubnagar,Lentils,8.17,Sandy,790.1,19.1,1,965.3,73.0,0.861
+Karimnagar,Kidneybeans,5.71,Clay,1146.7,25.1,0,737.6,167.1,0.674
+Mahabubnagar,Oats,7.81,Clay Loam,889.2,18.0,0,1658.2,18.6,0.856
+Mahabubnagar,Lentils,5.61,Clay Loam,415.1,30.3,0,1976.1,21.7,0.691
+Warangal,Millets,8.42,Loamy,503.5,21.1,0,1593.7,177.7,0.502
+Warangal,Pea Protein,6.43,Sandy Loam,958.6,27.8,0,2621.1,90.3,0.804
+Kurnool,Millets,6.26,Loamy,544.3,17.5,1,2754.9,163.3,0.642
+Karimnagar,Mungbean,7.13,Clay Loam,434.6,22.6,0,1861.2,144.8,0.615
+Kurnool,Kidneybeans,8.36,Loamy,338.2,20.3,1,2873.0,130.1,0.607
+Nalgonda,Millets,7.04,Loamy,758.0,22.4,0,1622.0,40.2,0.895
+Karimnagar,Quinoa,5.87,Loamy,412.6,32.0,0,1185.2,163.3,0.475
+Nizamabad,Quinoa,8.44,Sandy Loam,1070.9,29.0,1,2177.6,92.7,0.839
+Anantapur,Soy,6.95,Clay,756.0,22.7,1,1460.9,14.8,1.0
+Mahabubnagar,Chickpea,7.35,Sandy,1059.0,17.0,1,2262.2,165.3,0.752
+Nizamabad,Soy,7.12,Loamy,686.6,21.2,1,2656.6,44.1,0.946
+Hindupur,Chickpea,6.18,Sandy Loam,1091.4,31.2,0,1274.5,65.1,0.794
+Adilabad,Quinoa,7.0,Clay,363.8,21.3,0,1929.4,168.2,0.546
+Hindupur,Chickpea,6.24,Sandy,446.5,18.7,1,1219.1,68.3,0.759
+Anantapur,Quinoa,6.79,Loamy,1090.2,27.1,1,2459.4,64.3,0.971
+Nizamabad,Chickpea,5.72,Clay Loam,484.9,22.6,0,2104.3,137.6,0.578
+Karimnagar,Lentils,7.86,Clay,841.0,34.8,1,1190.8,92.1,0.815
+Nizamabad,Mungbean,6.85,Sandy,1179.4,17.1,1,783.3,86.7,0.882
+Nalgonda,Oats,7.25,Sandy,484.0,25.4,0,1160.7,49.0,0.79
+Nizamabad,Chickpea,6.36,Sandy,891.1,34.4,0,1988.4,42.7,0.806
+Warangal,Pea Protein,6.79,Clay,926.2,24.2,0,2121.3,60.8,0.888
+Kurnool,Quinoa,6.62,Clay,807.3,24.0,1,2025.0,69.5,0.964
+Mahabubnagar,Oats,6.02,Clay Loam,405.4,24.0,0,2861.8,149.9,0.561
+Nalgonda,Mungbean,7.6,Sandy Loam,912.1,23.2,0,1464.0,187.9,0.665
+Nizamabad,Pea Protein,8.37,Clay,659.1,31.8,1,2348.5,50.8,0.825
+Warangal,Soy,5.52,Sandy,690.2,16.9,0,710.8,163.4,0.548
+Mahabubnagar,Kidneybeans,5.53,Clay,830.5,27.3,0,2176.7,143.2,0.678
+Adilabad,Lentils,7.96,Loamy,345.0,33.2,1,1120.9,50.7,0.716
+Nalgonda,Oats,6.88,Clay,959.5,27.1,0,1987.0,80.7,0.851
+Karimnagar,Blackbeans,7.92,Sandy,1040.7,33.7,0,2466.9,85.5,0.733
+Warangal,Soy,7.06,Clay,361.6,22.4,0,1015.5,161.9,0.563
+Karimnagar,Soy,6.61,Sandy Loam,1105.8,28.3,1,2468.4,88.2,0.912
+Medak,Quinoa,7.0,Sandy,781.5,17.9,0,660.0,166.7,0.672
+Warangal,Blackbeans,6.1,Loamy,831.2,23.2,0,1727.7,186.2,0.651
+Anantapur,Lentils,6.73,Clay,889.7,20.2,1,779.7,108.1,0.874
+Anantapur,Blackbeans,7.49,Sandy Loam,1093.5,31.3,1,1615.5,163.1,0.764
+Anantapur,Pea Protein,6.25,Sandy Loam,763.5,25.7,0,2356.3,24.6,0.899
+Adilabad,Kidneybeans,6.42,Clay Loam,1122.4,34.1,1,2080.5,81.0,0.855
+Medak,Lentils,6.46,Loamy,1113.2,16.6,0,1757.8,46.8,0.814
+Warangal,Millets,8.15,Sandy,610.3,24.2,1,1598.0,126.0,0.766
+Nalgonda,Lentils,7.67,Clay Loam,646.3,24.8,0,913.2,10.4,0.887
+Kurnool,Millets,7.04,Sandy Loam,445.2,16.7,0,1535.5,149.2,0.557
+Hindupur,Blackbeans,7.4,Sandy,823.9,17.4,1,2019.4,56.6,0.916
+Karimnagar,Quinoa,6.51,Clay,974.5,26.4,0,1892.2,89.0,0.824
+Anantapur,Chickpea,7.59,Clay,931.9,18.4,1,1318.9,113.9,0.83
+Anantapur,Oats,7.1,Clay Loam,403.9,27.1,1,2832.8,93.4,0.785
+Adilabad,Blackbeans,6.12,Loamy,652.7,32.9,0,2432.5,190.8,0.529
+Anantapur,Soy,8.07,Loamy,905.9,23.2,0,2071.1,140.8,0.709
+Nizamabad,Quinoa,7.59,Sandy Loam,977.4,24.3,1,2608.3,102.2,0.906
+Hindupur,Quinoa,7.09,Loamy,759.5,31.4,0,2706.4,98.6,0.767
+Nalgonda,Kidneybeans,8.21,Sandy,483.1,16.3,1,1698.2,44.5,0.759
+Adilabad,Pea Protein,7.14,Sandy Loam,1183.5,24.0,0,2509.5,92.4,0.844
+Medak,Chickpea,5.71,Clay,956.3,27.2,0,1423.9,98.2,0.757
+Mahabubnagar,Blackbeans,8.29,Clay,641.3,31.6,1,1710.0,11.0,0.884
+Kurnool,Mungbean,7.24,Loamy,683.5,26.0,1,2379.4,162.6,0.789
+Medak,Pea Protein,5.54,Loamy,486.5,29.3,0,924.7,47.0,0.686
+Warangal,Blackbeans,6.27,Loamy,844.9,23.7,1,2722.8,120.0,0.865
+Warangal,Blackbeans,6.92,Sandy Loam,944.8,20.4,1,1971.3,45.2,0.982
+Kurnool,Blackbeans,7.74,Sandy Loam,802.1,26.7,1,1457.0,166.1,0.792
+Kurnool,Soy,6.29,Loamy,1145.2,27.7,0,1821.8,166.9,0.682
+Nalgonda,Blackbeans,7.46,Clay Loam,1041.4,16.3,0,2537.3,157.8,0.649
+Karimnagar,Lentils,7.82,Sandy Loam,973.1,18.0,1,577.9,59.3,0.894
+Warangal,Millets,7.97,Clay,867.0,32.2,1,1307.6,180.6,0.702
+Adilabad,Mungbean,6.81,Clay Loam,900.1,16.9,1,1122.5,119.6,0.829
+Warangal,Pea Protein,6.48,Sandy Loam,973.4,31.1,1,514.3,98.5,0.861
+Anantapur,Chickpea,8.18,Sandy Loam,1064.3,23.1,1,1281.9,134.3,0.813
+Hindupur,Quinoa,7.62,Sandy,578.1,17.7,1,2048.8,117.0,0.732
+Nalgonda,Millets,7.26,Clay Loam,822.9,34.8,0,2332.5,138.5,0.679
+Nizamabad,Pea Protein,8.11,Clay,641.2,22.4,1,1819.2,50.2,0.876
+Hindupur,Millets,6.98,Sandy Loam,1074.9,24.2,1,1982.9,20.1,1.0
+Kurnool,Lentils,5.83,Sandy,1132.5,27.6,0,2227.2,142.5,0.693
+Nizamabad,Quinoa,7.16,Sandy,973.0,31.2,0,948.4,144.0,0.713
+Warangal,Oats,8.01,Loamy,452.8,15.4,1,562.4,42.6,0.752
+Adilabad,Quinoa,8.38,Sandy Loam,782.3,24.8,1,2704.0,121.1,0.83
+Anantapur,Quinoa,8.26,Sandy,824.9,26.9,1,1985.2,143.5,0.794
+Adilabad,Blackbeans,7.32,Loamy,1092.9,32.7,1,1991.9,105.3,0.847
+Adilabad,Millets,8.49,Loamy,327.0,32.9,0,2007.6,127.6,0.467
+Nalgonda,Pea Protein,5.7,Sandy Loam,1177.8,31.3,1,2729.7,68.1,0.86
+Kurnool,Oats,6.0,Sandy Loam,727.5,16.1,1,752.4,41.8,0.864
+Nalgonda,Pea Protein,8.46,Clay,449.4,17.3,1,1195.9,161.7,0.566
+Adilabad,Mungbean,7.98,Sandy Loam,629.0,22.1,0,656.4,50.0,0.776
+Warangal,Pea Protein,6.53,Sandy,1078.2,18.1,0,746.5,167.6,0.653
+Nalgonda,Quinoa,7.02,Sandy,429.7,27.5,1,935.6,176.3,0.671
+Anantapur,Lentils,7.97,Sandy,351.3,23.4,0,976.8,75.9,0.646
+Kurnool,Chickpea,7.83,Sandy Loam,1076.0,21.3,0,815.9,116.9,0.74
+Nizamabad,Mungbean,5.55,Sandy Loam,770.5,24.4,0,1731.4,101.8,0.747
+Hindupur,Lentils,8.08,Loamy,666.1,21.6,1,1540.4,107.6,0.792
+Adilabad,Soy,6.03,Loamy,811.0,26.6,1,2674.0,86.5,0.899
+Karimnagar,Mungbean,7.72,Loamy,551.5,17.6,1,963.2,62.9,0.797
+Hindupur,Quinoa,8.21,Sandy,843.5,26.5,0,1928.2,37.2,0.86
+Hindupur,Blackbeans,8.18,Clay,603.7,29.6,0,2489.8,43.3,0.748
+Nizamabad,Kidneybeans,8.12,Clay Loam,524.7,20.3,0,2058.7,124.1,0.599
+Anantapur,Pea Protein,7.75,Sandy Loam,436.8,24.2,0,998.8,65.9,0.714
+Adilabad,Oats,5.62,Clay,562.3,19.2,1,2464.5,122.1,0.69
+Nalgonda,Soy,7.78,Sandy Loam,439.0,24.7,1,1782.3,143.8,0.702
+Kurnool,Oats,7.52,Clay Loam,986.6,15.9,0,1776.5,126.9,0.689
+Nizamabad,Pea Protein,7.82,Sandy,411.1,27.5,1,1877.9,93.3,0.742
+Warangal,Soy,5.57,Sandy Loam,704.1,19.7,0,1664.2,156.9,0.595
+Nizamabad,Kidneybeans,6.02,Clay,641.8,31.0,1,638.8,118.0,0.747
+Anantapur,Soy,7.53,Sandy,809.2,33.6,1,1414.7,70.4,0.878
+Hindupur,Quinoa,6.35,Loamy,676.7,20.9,0,2903.7,136.9,0.67
+Hindupur,Lentils,7.29,Sandy Loam,888.0,18.8,1,2620.3,190.0,0.737
+Hindupur,Pea Protein,6.55,Sandy Loam,1121.6,21.8,0,525.7,146.0,0.723
+Nizamabad,Pea Protein,8.47,Sandy Loam,580.7,21.8,1,1282.9,171.4,0.645
+Medak,Oats,8.31,Loamy,467.2,22.5,1,996.2,41.3,0.813
+Adilabad,Mungbean,6.84,Clay Loam,751.4,19.9,1,650.2,181.9,0.749
+Mahabubnagar,Mungbean,6.03,Sandy,564.8,17.3,0,639.0,11.3,0.762
+Nizamabad,Millets,6.73,Sandy Loam,662.2,32.7,1,2393.7,66.1,0.857
+Karimnagar,Soy,7.69,Loamy,1146.2,27.1,1,2577.4,32.8,0.991
+Anantapur,Pea Protein,6.98,Clay Loam,569.9,26.9,1,2080.6,120.9,0.812
+Medak,Millets,5.64,Loamy,496.1,15.3,0,2828.9,166.0,0.462
+Warangal,Mungbean,6.73,Clay,804.5,33.9,1,2566.4,162.2,0.753
+Nalgonda,Blackbeans,5.73,Clay Loam,625.4,16.8,1,1036.7,22.8,0.846
+Kurnool,Soy,7.35,Sandy Loam,1077.1,19.5,0,931.3,117.9,0.748
+Warangal,Blackbeans,5.6,Loamy,1003.8,19.8,1,625.9,20.0,0.938
+Anantapur,Lentils,7.34,Clay Loam,527.6,26.6,1,2744.4,151.6,0.735
+Warangal,Quinoa,6.55,Clay,626.3,31.1,0,1893.3,39.6,0.789
+Warangal,Soy,8.02,Clay Loam,499.1,22.6,0,1941.2,154.8,0.573
+Anantapur,Millets,5.55,Clay,911.3,16.5,0,1828.9,16.2,0.808
+Nalgonda,Blackbeans,6.25,Sandy Loam,888.7,27.4,1,1905.5,145.8,0.815
+Karimnagar,Lentils,7.82,Clay,339.6,28.9,0,1386.7,114.6,0.57
+Medak,Mungbean,6.81,Clay Loam,1109.3,34.2,0,1387.2,88.5,0.764
+Medak,Millets,7.17,Sandy Loam,326.2,33.1,1,1548.0,42.0,0.768
+Kurnool,Chickpea,6.29,Clay,581.7,31.7,0,2835.8,184.1,0.534
+Medak,Kidneybeans,5.77,Clay,583.3,15.9,0,1571.1,149.0,0.534
+Karimnagar,Millets,6.21,Sandy,396.9,30.4,1,1127.9,170.4,0.595
+Adilabad,Blackbeans,6.43,Loamy,815.7,21.5,0,1898.5,167.4,0.681
+Anantapur,Pea Protein,6.2,Sandy Loam,489.8,32.1,1,2513.6,189.9,0.582
+Mahabubnagar,Quinoa,6.86,Clay,1002.2,35.0,1,2148.8,140.7,0.782
+Anantapur,Kidneybeans,6.04,Loamy,860.5,19.5,0,1742.2,184.2,0.614
+Nizamabad,Oats,7.2,Clay Loam,698.0,30.9,1,710.3,84.7,0.864
+Karimnagar,Kidneybeans,7.49,Loamy,842.2,18.3,0,1087.5,167.7,0.653
+Warangal,Lentils,6.19,Loamy,1081.6,33.5,1,2817.3,50.6,0.893
+Anantapur,Chickpea,8.07,Sandy,958.0,33.9,0,2468.4,68.2,0.747
+Medak,Pea Protein,5.69,Sandy,781.8,26.3,1,2760.6,81.2,0.883
+Adilabad,Soy,6.45,Clay Loam,533.4,16.8,1,738.4,95.5,0.743
+Nalgonda,Lentils,7.49,Sandy,1083.6,30.2,0,1336.0,85.0,0.793
+Mahabubnagar,Chickpea,7.22,Clay Loam,1024.9,30.2,1,1868.5,149.4,0.811
+Mahabubnagar,Oats,5.67,Sandy,331.2,22.8,0,2507.1,56.8,0.641
+Warangal,Pea Protein,8.19,Sandy Loam,567.6,19.6,0,2120.3,176.3,0.527
+Nizamabad,Pea Protein,7.14,Loamy,395.0,15.9,0,2344.9,78.5,0.632
+Medak,Pea Protein,8.47,Clay Loam,327.0,23.9,0,2971.1,195.7,0.434
+Hindupur,Kidneybeans,8.1,Clay Loam,560.5,24.4,1,1585.9,94.8,0.799
+Kurnool,Mungbean,7.0,Loamy,880.4,15.5,0,2222.7,166.4,0.655
+Karimnagar,Millets,7.31,Sandy Loam,771.2,20.1,0,2724.8,198.5,0.625
+Anantapur,Millets,7.87,Sandy,842.2,25.2,0,814.9,196.0,0.654
+Hindupur,Chickpea,8.17,Sandy,1149.5,30.3,1,1938.4,91.5,0.843
+Warangal,Kidneybeans,6.89,Clay Loam,1148.8,21.5,1,2367.7,51.6,0.981
+Nalgonda,Quinoa,7.32,Clay Loam,1064.5,15.9,0,2992.3,44.9,0.824
+Nizamabad,Oats,6.5,Sandy Loam,718.8,15.3,1,2516.9,170.0,0.689
+Karimnagar,Oats,7.52,Loamy,951.8,24.9,1,2159.6,193.4,0.779
+Nalgonda,Pea Protein,5.57,Clay Loam,626.5,25.9,0,2002.3,74.8,0.732
+Medak,Quinoa,8.47,Sandy Loam,954.2,30.7,0,2750.7,160.5,0.618
+Anantapur,Pea Protein,8.34,Sandy Loam,566.2,15.0,0,704.2,185.6,0.458
+Nalgonda,Mungbean,7.28,Clay,314.6,29.6,1,2756.8,169.1,0.603
+Karimnagar,Soy,6.88,Loamy,749.1,21.4,0,1505.1,148.5,0.715
+Anantapur,Millets,6.57,Clay,529.0,15.3,0,2538.2,179.9,0.506
+Mahabubnagar,Chickpea,7.04,Clay Loam,376.6,26.0,1,2165.7,197.9,0.632
+Nizamabad,Mungbean,6.44,Loamy,387.0,18.5,0,2942.0,86.9,0.618
+Warangal,Blackbeans,8.17,Clay,717.4,21.4,0,1264.4,86.5,0.736
+Mahabubnagar,Quinoa,7.58,Clay Loam,628.2,29.8,0,1946.2,141.8,0.642
+Mahabubnagar,Kidneybeans,6.78,Sandy Loam,1195.2,16.9,0,966.6,14.9,0.883
+Warangal,Pea Protein,7.89,Clay Loam,509.3,19.5,1,2908.7,30.5,0.84
+Medak,Lentils,6.33,Clay,994.4,28.0,1,763.7,121.3,0.85
+Karimnagar,Blackbeans,7.96,Sandy,337.4,25.0,1,1497.9,123.7,0.686
+Anantapur,Blackbeans,8.19,Sandy Loam,1028.9,26.7,1,2734.1,24.2,0.979
+Karimnagar,Pea Protein,7.6,Loamy,993.4,21.7,0,2778.3,14.0,0.912
+Adilabad,Kidneybeans,7.8,Clay Loam,931.9,21.6,1,2070.3,186.8,0.74
+Karimnagar,Blackbeans,6.61,Clay,795.4,30.8,1,1961.4,194.2,0.727
+Medak,Kidneybeans,6.52,Clay Loam,755.3,18.2,1,1748.3,30.2,0.943
+Mahabubnagar,Mungbean,6.74,Loamy,648.5,28.2,1,1643.6,85.4,0.869
+Karimnagar,Kidneybeans,7.69,Sandy,421.8,19.0,1,1693.5,124.3,0.672
+Kurnool,Quinoa,6.51,Clay,414.1,22.8,1,595.2,127.8,0.714
+Warangal,Blackbeans,7.16,Sandy Loam,835.7,32.4,0,791.2,58.3,0.829
+Mahabubnagar,Oats,5.74,Sandy Loam,809.3,33.2,1,930.2,177.0,0.681
+Hindupur,Pea Protein,5.74,Clay Loam,1145.6,30.1,0,1756.2,48.1,0.805
+Warangal,Oats,8.25,Sandy Loam,623.8,21.1,0,2852.2,33.6,0.774
+Medak,Blackbeans,6.03,Sandy,949.9,15.8,1,1673.8,90.3,0.817
+Nalgonda,Kidneybeans,6.94,Sandy,1028.7,34.0,0,1354.6,176.0,0.643
+Karimnagar,Soy,5.9,Clay,695.9,27.9,0,791.1,34.1,0.818
+Karimnagar,Oats,7.76,Sandy Loam,1115.0,31.7,0,2551.2,167.0,0.639
+Kurnool,Pea Protein,7.01,Loamy,361.3,19.4,0,2078.6,159.0,0.54
+Nizamabad,Millets,8.37,Clay,787.0,27.1,1,535.8,100.9,0.844
+Medak,Quinoa,7.31,Clay Loam,987.3,25.5,1,1857.5,81.0,0.956
+Karimnagar,Chickpea,7.73,Clay,519.7,27.0,1,1494.5,107.2,0.773
+Hindupur,Chickpea,5.94,Sandy,755.1,16.2,0,1883.2,108.9,0.671
+Hindupur,Kidneybeans,6.27,Sandy Loam,402.2,33.4,0,610.2,45.2,0.658
+Adilabad,Soy,6.85,Clay Loam,597.4,26.8,1,1241.5,24.7,0.961
+Nizamabad,Soy,5.87,Sandy Loam,766.7,19.9,0,647.8,141.2,0.66
+Nalgonda,Kidneybeans,8.28,Sandy,382.0,20.7,0,510.5,137.4,0.521
+Hindupur,Mungbean,7.8,Clay,672.3,28.1,1,1338.4,43.6,0.91
+Kurnool,Chickpea,7.3,Sandy,955.8,21.3,1,1726.0,42.2,0.983
+Mahabubnagar,Quinoa,7.89,Sandy,909.8,25.9,1,1330.0,158.5,0.802
+Kurnool,Kidneybeans,8.03,Clay,592.4,28.7,1,2576.6,52.7,0.847
+Nizamabad,Soy,7.72,Clay,851.0,15.3,0,1335.5,148.9,0.639
+Anantapur,Chickpea,7.91,Sandy Loam,1079.8,16.2,1,2725.3,133.9,0.759
+Adilabad,Quinoa,7.36,Clay Loam,811.7,16.2,1,2188.6,85.2,0.864
+Adilabad,Lentils,6.8,Clay Loam,414.8,23.2,1,1388.6,137.2,0.72
+Karimnagar,Oats,7.47,Loamy,478.9,21.3,1,1025.3,151.0,0.689
+Adilabad,Chickpea,6.92,Sandy,339.0,29.0,0,2237.4,117.8,0.606
+Nalgonda,Blackbeans,6.96,Clay Loam,419.9,20.2,0,652.3,141.9,0.595
+Kurnool,Kidneybeans,5.52,Sandy,746.6,20.7,1,728.3,70.6,0.847
+Kurnool,Mungbean,6.02,Clay,724.5,16.8,1,2286.0,78.7,0.816
+Adilabad,Chickpea,6.09,Loamy,320.3,32.2,0,1970.2,70.1,0.591
+Hindupur,Lentils,7.33,Clay,566.2,20.1,1,952.0,61.1,0.853
+Adilabad,Lentils,6.42,Sandy,799.6,26.8,1,668.4,168.0,0.797
+Karimnagar,Blackbeans,7.05,Sandy,492.6,20.7,1,1400.9,124.9,0.751
+Mahabubnagar,Mungbean,6.43,Loamy,564.2,20.3,0,884.5,178.4,0.564
+Karimnagar,Millets,7.92,Sandy Loam,1097.3,31.3,1,2992.4,146.8,0.764
+Nizamabad,Mungbean,5.65,Clay,508.0,32.9,0,502.3,181.6,0.461
+Medak,Pea Protein,7.52,Clay Loam,515.2,30.2,1,1780.5,139.3,0.703
+Karimnagar,Lentils,8.3,Clay Loam,573.0,30.6,0,878.4,38.9,0.726
+Mahabubnagar,Lentils,6.05,Loamy,1168.7,23.6,1,1017.0,105.8,0.872
+Medak,Chickpea,6.12,Sandy,581.9,27.7,1,1513.3,61.1,0.849
+Adilabad,Kidneybeans,7.89,Sandy Loam,591.4,30.3,1,957.0,191.7,0.631
+Karimnagar,Chickpea,5.69,Loamy,737.6,17.2,1,706.0,124.0,0.737
+Hindupur,Blackbeans,6.41,Loamy,1072.8,32.1,1,1184.2,183.2,0.72
+Kurnool,Lentils,6.48,Clay Loam,348.4,28.4,0,1776.4,32.8,0.718
+Kurnool,Chickpea,8.08,Clay,423.6,34.0,0,2206.6,54.8,0.624
+Adilabad,Chickpea,6.37,Sandy Loam,1004.9,31.1,0,2262.6,151.0,0.677
+Adilabad,Quinoa,7.37,Sandy Loam,874.5,21.1,0,2293.7,100.3,0.789
+Warangal,Lentils,6.08,Sandy Loam,1038.5,28.5,0,973.0,146.9,0.692
+Nizamabad,Soy,7.88,Clay,1183.1,33.6,0,763.5,169.4,0.609
+Anantapur,Mungbean,5.84,Sandy Loam,667.0,32.7,0,677.3,76.5,0.692
+Kurnool,Pea Protein,7.39,Clay,1077.1,17.6,1,1482.8,36.5,0.95
+Mahabubnagar,Soy,8.43,Clay Loam,632.2,22.1,0,929.0,41.8,0.764
+Karimnagar,Lentils,6.75,Clay Loam,356.8,22.9,1,683.4,136.0,0.695
+Adilabad,Pea Protein,6.73,Clay Loam,1035.9,32.9,1,2121.9,89.6,0.871
+Anantapur,Blackbeans,8.29,Sandy,894.7,29.9,0,2989.3,92.7,0.738
+Mahabubnagar,Chickpea,7.21,Loamy,730.8,32.2,1,500.6,183.9,0.714
+Warangal,Quinoa,6.0,Sandy,408.3,16.4,1,2307.0,54.0,0.729
+Anantapur,Mungbean,7.04,Sandy Loam,613.9,22.5,1,2277.5,54.6,0.921
+Karimnagar,Pea Protein,8.48,Sandy Loam,509.5,16.1,1,1186.3,128.7,0.624
+Adilabad,Oats,7.72,Clay Loam,917.9,31.3,0,2653.6,174.5,0.634
+Hindupur,Blackbeans,6.88,Sandy,1190.0,24.7,1,1906.1,63.1,0.995
+Medak,Soy,8.48,Sandy Loam,1071.8,16.9,0,1836.7,173.2,0.575
+Medak,Chickpea,5.55,Clay,1113.7,16.4,1,1269.5,55.8,0.847
+Adilabad,Lentils,6.78,Clay,355.3,19.5,1,1442.2,176.4,0.601
+Mahabubnagar,Chickpea,7.11,Loamy,1056.0,21.8,1,1244.1,66.6,0.962
+Karimnagar,Kidneybeans,7.4,Clay,411.5,16.4,0,2402.2,18.1,0.718
+Nalgonda,Quinoa,6.02,Clay Loam,728.9,29.8,1,922.0,172.2,0.711
+Adilabad,Blackbeans,7.81,Sandy Loam,1141.3,33.2,0,2507.5,196.4,0.577
+Nalgonda,Lentils,6.37,Sandy Loam,639.3,22.9,1,1613.6,122.5,0.798
+Kurnool,Blackbeans,6.43,Sandy,753.0,30.9,1,1528.0,136.0,0.787
+Nalgonda,Blackbeans,6.63,Clay,672.2,15.8,1,1024.7,59.6,0.85
+Medak,Soy,6.04,Sandy Loam,653.0,34.0,0,1759.2,167.5,0.549
+Karimnagar,Quinoa,6.53,Clay Loam,864.9,18.8,1,1625.7,110.9,0.845
+Karimnagar,Chickpea,7.38,Sandy,1027.4,16.4,0,1904.7,137.6,0.686
+Warangal,Lentils,5.95,Sandy,836.8,31.3,1,1104.6,90.9,0.84
+Hindupur,Blackbeans,7.43,Clay,840.9,28.9,0,2398.3,145.4,0.718
+Kurnool,Blackbeans,6.63,Sandy,765.6,23.3,0,2209.7,14.8,0.927
+Medak,Soy,5.67,Clay,848.8,19.8,1,1005.4,113.6,0.802
+Adilabad,Soy,6.19,Loamy,1064.0,22.9,1,808.1,68.5,0.931
+Anantapur,Soy,7.21,Clay Loam,823.4,29.3,0,1866.7,178.1,0.678
+Adilabad,Blackbeans,8.13,Clay Loam,956.0,21.0,0,1319.6,80.7,0.775
+Anantapur,Pea Protein,7.01,Sandy,824.8,26.6,1,624.0,58.8,0.996
+Nalgonda,Lentils,5.76,Clay,738.6,28.8,1,2903.9,94.5,0.826
+Nalgonda,Chickpea,8.25,Sandy,798.2,21.0,1,2529.5,75.0,0.875
+Anantapur,Lentils,6.59,Sandy,1014.5,33.8,0,1348.1,113.5,0.718
+Adilabad,Quinoa,5.65,Loamy,661.7,28.5,1,1958.6,98.2,0.789
+Warangal,Pea Protein,6.16,Loamy,401.6,26.9,0,2371.5,101.7,0.631
+Hindupur,Pea Protein,7.65,Sandy Loam,1161.4,23.5,1,1249.2,192.8,0.759
+Anantapur,Mungbean,7.5,Sandy,759.9,23.6,1,598.2,195.7,0.749
+Karimnagar,Soy,7.71,Sandy Loam,1071.3,33.8,0,2328.1,156.3,0.637
+Mahabubnagar,Chickpea,8.31,Sandy,764.1,24.9,1,798.5,72.3,0.903
+Warangal,Millets,6.08,Clay,799.9,26.7,1,2674.1,26.7,0.99
+Karimnagar,Millets,6.32,Clay,1044.9,29.8,0,1838.4,130.7,0.717
+Warangal,Soy,5.62,Sandy,589.9,26.2,1,2821.5,150.4,0.705
+Karimnagar,Lentils,8.29,Sandy,774.8,20.2,0,2554.1,29.3,0.825
+Hindupur,Chickpea,7.19,Loamy,840.5,18.3,1,2279.4,180.7,0.751
+Kurnool,Millets,8.27,Clay,986.0,26.8,1,1321.0,102.6,0.855
+Nizamabad,Kidneybeans,7.09,Sandy,601.0,25.4,1,2532.9,58.9,0.928
+Mahabubnagar,Blackbeans,7.02,Sandy Loam,1070.4,30.0,1,1895.4,75.9,0.935
+Karimnagar,Pea Protein,6.48,Loamy,963.4,15.7,1,1290.0,171.9,0.72
+Medak,Quinoa,7.37,Loamy,356.8,21.5,1,2931.2,108.4,0.715
+Nalgonda,Kidneybeans,6.79,Loamy,367.4,17.1,1,2614.2,31.7,0.799
+Medak,Kidneybeans,6.63,Sandy Loam,1183.1,24.3,0,591.2,20.0,0.942
+Karimnagar,Lentils,8.03,Loamy,536.2,23.4,1,2041.8,173.6,0.666
+Warangal,Oats,8.15,Clay Loam,508.2,23.1,0,2915.7,194.3,0.514
+Mahabubnagar,Soy,7.6,Clay Loam,556.7,27.6,0,1225.1,48.3,0.776
+Warangal,Soy,8.27,Sandy Loam,350.6,24.7,0,1868.3,41.3,0.694
+Warangal,Chickpea,6.16,Clay Loam,763.8,17.0,0,748.9,13.0,0.839
+Kurnool,Millets,5.74,Sandy Loam,914.8,33.7,1,1364.6,16.7,0.916
+Nizamabad,Millets,7.45,Clay Loam,1109.3,27.5,0,1290.5,170.5,0.694
+Adilabad,Lentils,7.53,Sandy Loam,570.9,18.7,0,1432.5,49.7,0.746
+Medak,Millets,6.85,Clay Loam,527.3,23.9,0,1022.7,34.8,0.826
+Mahabubnagar,Mungbean,6.45,Clay Loam,307.9,22.6,1,2713.1,26.5,0.821
+Nalgonda,Quinoa,6.66,Sandy Loam,1046.6,17.7,1,967.3,94.6,0.866
+Medak,Blackbeans,7.39,Sandy Loam,493.6,27.5,0,2823.5,48.9,0.764
+Nizamabad,Quinoa,6.7,Clay Loam,518.0,19.1,1,2957.4,132.1,0.719
+Adilabad,Pea Protein,6.72,Loamy,515.1,27.6,0,2673.8,44.3,0.785
+Hindupur,Kidneybeans,7.77,Sandy,654.4,27.2,0,1106.4,65.4,0.782
+Mahabubnagar,Millets,6.92,Sandy,451.2,22.1,1,2884.9,174.5,0.674
+Medak,Quinoa,7.29,Sandy,898.3,23.4,0,1205.8,121.2,0.785
+Karimnagar,Oats,7.58,Loamy,895.2,15.8,0,2375.8,69.0,0.771
+Kurnool,Lentils,7.65,Loamy,823.9,31.0,0,1608.9,188.4,0.621
+Mahabubnagar,Chickpea,5.75,Loamy,1076.7,24.6,0,777.9,15.8,0.901
+Mahabubnagar,Blackbeans,5.69,Clay Loam,1040.4,21.2,0,1227.2,99.2,0.738
+Hindupur,Oats,6.39,Sandy Loam,1002.0,24.4,0,523.9,24.3,0.923
+Kurnool,Oats,5.52,Clay Loam,711.1,21.6,0,2727.9,97.5,0.702
+Warangal,Chickpea,5.79,Clay Loam,948.4,20.6,0,2414.7,25.1,0.85
+Anantapur,Millets,5.9,Sandy,720.9,27.1,1,1642.6,65.1,0.889
+Kurnool,Soy,7.79,Clay Loam,1104.0,23.7,0,2966.7,57.7,0.855
+Warangal,Kidneybeans,7.86,Loamy,738.7,33.9,1,2905.1,106.7,0.779
+Mahabubnagar,Quinoa,8.38,Loamy,428.5,26.6,1,2880.4,166.5,0.616
+Anantapur,Soy,5.66,Clay Loam,820.7,16.7,0,2325.0,78.0,0.723
+Karimnagar,Pea Protein,5.85,Sandy Loam,1082.7,24.4,1,2861.8,73.6,0.918
+Anantapur,Lentils,5.52,Loamy,1029.6,34.0,0,1925.5,125.9,0.637
+Mahabubnagar,Kidneybeans,5.57,Loamy,780.7,28.8,0,2332.9,199.1,0.575
+Nalgonda,Quinoa,6.21,Clay,1094.4,16.9,1,2943.6,172.1,0.716
+Mahabubnagar,Mungbean,6.18,Clay Loam,789.4,28.9,1,726.4,136.9,0.805
+Kurnool,Soy,6.01,Clay,646.1,21.9,1,1099.1,16.2,0.931
+Hindupur,Quinoa,6.53,Clay,1029.0,19.8,0,2376.5,54.8,0.838
+Karimnagar,Quinoa,8.03,Sandy,371.6,29.1,0,848.6,118.1,0.562
+Adilabad,Quinoa,6.62,Sandy,383.2,24.2,0,1953.0,146.5,0.594
+Adilabad,Chickpea,7.15,Clay,762.6,28.8,0,2916.6,94.3,0.798
+Kurnool,Quinoa,6.19,Sandy Loam,395.8,31.4,0,1383.7,70.0,0.633
+Medak,Millets,6.08,Sandy Loam,578.5,34.5,1,2448.4,109.3,0.705
+Medak,Soy,6.72,Sandy Loam,302.4,32.0,0,721.4,138.6,0.519
+Warangal,Oats,7.72,Clay Loam,489.9,31.8,1,2537.0,89.3,0.74
+Hindupur,Chickpea,5.86,Sandy,362.0,24.7,0,2050.6,113.5,0.597
+Mahabubnagar,Blackbeans,6.31,Loamy,984.3,29.4,0,1043.6,79.7,0.797
+Adilabad,Quinoa,8.11,Sandy Loam,676.5,23.9,0,670.1,70.2,0.774
+Adilabad,Kidneybeans,8.07,Clay Loam,1060.4,22.2,0,957.2,54.2,0.829
+Anantapur,Kidneybeans,5.53,Sandy,668.3,21.6,0,2665.6,94.4,0.691
+Karimnagar,Chickpea,7.95,Clay,1185.5,33.2,0,2968.4,52.8,0.785
+Nalgonda,Mungbean,5.97,Sandy,976.6,26.4,0,505.2,59.5,0.838
+Medak,Lentils,7.21,Clay Loam,868.6,25.4,1,567.7,95.4,0.941
+Kurnool,Quinoa,5.87,Loamy,887.2,16.1,1,1660.0,35.3,0.893
+Anantapur,Quinoa,6.41,Clay Loam,859.0,21.0,1,2419.4,31.7,0.979
+Anantapur,Mungbean,7.79,Clay Loam,539.0,31.1,0,585.9,131.4,0.598
+Nalgonda,Millets,6.38,Clay,790.9,17.7,1,2997.6,51.9,0.91
+Warangal,Quinoa,6.97,Clay,771.8,28.3,1,766.8,133.4,0.854
+Nalgonda,Lentils,7.73,Clay Loam,878.8,21.3,0,623.3,58.9,0.833
+Medak,Millets,6.66,Clay,1148.7,27.2,0,1634.8,106.3,0.799
+Hindupur,Kidneybeans,8.07,Clay Loam,453.5,23.7,1,1158.9,63.0,0.801
+Mahabubnagar,Soy,5.72,Sandy,500.7,23.2,1,2939.0,22.4,0.863
+Kurnool,Soy,7.12,Clay,529.6,30.4,0,1597.8,17.6,0.812
+Hindupur,Oats,5.69,Sandy,833.4,31.5,0,1567.2,99.1,0.712
+Medak,Oats,6.69,Sandy Loam,1138.3,21.8,1,1400.1,100.8,0.899
+Medak,Millets,7.6,Clay Loam,576.2,16.1,0,813.1,134.5,0.591
+Anantapur,Millets,8.11,Clay,1101.7,24.0,0,1734.9,175.2,0.664
+Warangal,Blackbeans,7.22,Sandy,423.5,33.8,1,1107.9,114.6,0.687
+Warangal,Millets,7.39,Clay,322.5,29.4,1,2609.3,93.2,0.714
+Nizamabad,Kidneybeans,7.76,Sandy,954.7,32.4,0,960.6,20.8,0.851
+Karimnagar,Kidneybeans,5.55,Clay Loam,344.1,26.5,1,2995.8,112.9,0.662
+Nizamabad,Mungbean,5.58,Clay Loam,961.7,27.5,1,2289.1,140.5,0.783
+Medak,Lentils,6.56,Sandy,413.5,17.6,0,2398.1,127.8,0.564
+Karimnagar,Blackbeans,6.05,Sandy,395.1,31.3,0,1305.8,157.6,0.495
+Medak,Blackbeans,8.0,Sandy,350.6,30.0,0,2875.8,67.0,0.624
+Anantapur,Soy,8.37,Clay,330.1,26.6,0,2472.3,157.2,0.494
+Adilabad,Quinoa,5.64,Sandy Loam,735.2,15.3,1,2397.4,105.1,0.743
+Adilabad,Soy,6.2,Clay,441.1,28.7,0,2581.7,103.7,0.627
+Mahabubnagar,Millets,6.0,Clay,302.1,34.7,0,1386.4,117.3,0.483
+Karimnagar,Chickpea,6.3,Sandy Loam,1106.2,17.1,0,1014.1,126.6,0.691
+Mahabubnagar,Pea Protein,7.55,Sandy,471.2,25.4,1,970.8,67.7,0.839
+Warangal,Pea Protein,7.22,Loamy,763.3,25.3,0,853.5,34.8,0.919
+Mahabubnagar,Millets,7.13,Clay Loam,378.1,19.7,1,1385.2,134.6,0.68
+Warangal,Oats,6.15,Clay Loam,349.2,15.4,0,597.5,96.6,0.541
+Hindupur,Kidneybeans,5.99,Loamy,922.6,28.5,0,2214.1,53.0,0.828
+Medak,Chickpea,6.33,Sandy Loam,501.3,32.1,1,1457.1,129.8,0.683
+Karimnagar,Lentils,6.43,Sandy Loam,985.9,33.7,1,2851.2,191.0,0.694
+Medak,Kidneybeans,6.26,Loamy,360.6,20.4,0,509.3,40.9,0.685
+Nizamabad,Quinoa,5.58,Sandy,637.8,27.5,0,738.9,180.6,0.562
+Hindupur,Chickpea,7.29,Sandy,396.7,15.3,1,2781.5,43.7,0.77
+Nizamabad,Kidneybeans,6.3,Clay Loam,896.6,34.3,0,709.9,156.3,0.632
+Nalgonda,Quinoa,8.43,Clay Loam,1167.9,18.3,1,1804.3,50.5,0.875
+Hindupur,Blackbeans,6.28,Loamy,383.3,23.0,0,2074.2,89.1,0.649
+Karimnagar,Chickpea,5.56,Loamy,429.3,28.2,0,1951.9,186.5,0.467
+Kurnool,Millets,5.69,Sandy,850.0,34.7,0,1403.0,131.1,0.632
+Karimnagar,Quinoa,8.49,Clay,727.1,31.3,0,1361.9,84.2,0.698
+Anantapur,Blackbeans,6.73,Sandy Loam,843.9,27.6,1,886.0,129.1,0.865
+Mahabubnagar,Quinoa,6.21,Clay Loam,490.4,29.7,1,2055.0,177.6,0.625
+Nizamabad,Chickpea,7.65,Sandy Loam,897.9,21.9,1,859.7,11.6,1.0
+Adilabad,Blackbeans,6.87,Clay,766.2,15.1,0,2366.0,37.6,0.825
+Nalgonda,Chickpea,6.2,Loamy,1031.8,26.8,1,1379.3,93.6,0.896
+Nalgonda,Millets,6.75,Loamy,532.5,32.3,0,1853.1,20.1,0.782
+Kurnool,Oats,7.38,Clay Loam,622.9,34.9,1,1603.8,34.8,0.86
+Kurnool,Soy,6.85,Sandy,946.8,26.7,1,2046.9,25.5,1.0
+Medak,Quinoa,7.1,Sandy,868.4,25.9,0,1641.3,38.4,0.928
+Nizamabad,Millets,6.04,Loamy,572.2,16.0,1,1515.8,186.1,0.591
+Hindupur,Blackbeans,5.88,Sandy,643.8,15.6,0,2166.0,64.2,0.687
+Anantapur,Chickpea,6.79,Clay,575.8,34.2,0,1113.6,146.3,0.592
+Nalgonda,Soy,5.51,Clay,671.4,17.0,0,1327.3,57.2,0.701
+Adilabad,Chickpea,8.49,Sandy Loam,1020.5,31.9,1,1203.2,88.1,0.814
+Medak,Kidneybeans,6.6,Clay,393.3,29.0,0,1346.3,11.3,0.767
+Warangal,Chickpea,8.44,Sandy,885.1,29.8,1,612.2,128.3,0.777
+Medak,Oats,7.37,Loamy,420.6,17.3,0,2867.9,87.2,0.629
+Mahabubnagar,Soy,5.76,Clay,1142.8,31.5,1,1042.8,113.0,0.795
+Karimnagar,Millets,8.32,Loamy,464.6,26.3,1,1844.0,119.4,0.706
+Nalgonda,Chickpea,7.11,Sandy Loam,752.4,20.2,1,1917.1,187.1,0.747
+Karimnagar,Millets,6.53,Clay Loam,1158.0,33.1,1,1747.4,23.7,0.957
+Kurnool,Kidneybeans,7.8,Sandy,489.2,21.5,0,2120.6,42.8,0.738
+Hindupur,Kidneybeans,8.39,Loamy,766.5,16.5,1,1165.6,16.0,0.899
+Warangal,Chickpea,8.44,Sandy Loam,751.7,24.1,1,2666.1,109.0,0.827
+Mahabubnagar,Oats,6.75,Sandy Loam,1068.0,32.1,1,2793.9,155.3,0.782
+Nizamabad,Mungbean,5.55,Sandy,854.6,34.2,1,2472.3,54.4,0.843
+Nalgonda,Quinoa,7.79,Loamy,1022.0,22.7,1,1983.9,34.2,0.981
+Hindupur,Blackbeans,6.86,Sandy,1067.9,26.6,0,2536.6,187.9,0.694
+Nizamabad,Soy,7.11,Sandy,654.8,32.0,0,1352.4,163.0,0.625
+Anantapur,Lentils,7.26,Sandy,1141.1,29.5,0,1095.8,160.9,0.698
+Nalgonda,Oats,7.17,Sandy Loam,1180.5,30.5,0,1262.7,42.1,0.872
+Anantapur,Lentils,7.13,Clay,796.5,22.1,0,2180.9,72.5,0.854
+Anantapur,Kidneybeans,7.78,Clay,485.4,29.2,0,1093.9,103.0,0.641
+Karimnagar,Soy,8.34,Loamy,1125.4,26.7,0,2631.4,47.7,0.835
+Warangal,Lentils,6.79,Sandy,470.1,20.6,1,946.3,103.7,0.765
+Medak,Mungbean,7.25,Clay Loam,961.3,21.4,1,1862.1,61.3,0.958
+Medak,Kidneybeans,6.86,Sandy Loam,334.2,29.6,1,630.1,31.6,0.824
+Hindupur,Soy,7.68,Sandy Loam,403.6,26.8,0,1439.9,153.7,0.564
+Kurnool,Blackbeans,5.55,Sandy Loam,392.1,23.2,1,780.0,171.4,0.589
+Hindupur,Mungbean,5.83,Sandy,1088.3,30.7,0,738.1,15.2,0.853
+Medak,Chickpea,8.34,Loamy,821.8,25.8,0,2312.0,106.0,0.756
+Karimnagar,Kidneybeans,7.74,Clay Loam,1196.1,28.3,0,887.0,67.2,0.824
+Kurnool,Lentils,8.17,Clay Loam,355.5,24.0,0,2966.4,20.6,0.726
+Medak,Oats,6.88,Loamy,551.4,22.4,0,1779.8,110.1,0.709
+Hindupur,Pea Protein,6.09,Sandy Loam,586.9,26.9,0,1747.8,30.9,0.803
+Anantapur,Quinoa,5.77,Clay,531.1,16.9,1,2107.0,158.7,0.609
+Warangal,Quinoa,8.26,Loamy,384.3,34.1,1,2258.2,86.5,0.651
+Kurnool,Quinoa,5.77,Sandy,1153.1,20.2,1,1288.9,159.9,0.742
+Adilabad,Blackbeans,7.58,Clay Loam,519.2,33.6,0,2507.9,39.1,0.717
+Karimnagar,Blackbeans,7.84,Loamy,625.4,23.1,0,1416.8,30.1,0.823
+Nalgonda,Oats,5.71,Sandy Loam,619.4,25.1,1,2778.4,115.3,0.785
+Medak,Blackbeans,5.98,Sandy Loam,618.7,23.4,0,2734.9,184.8,0.58
+Kurnool,Blackbeans,7.72,Clay,981.2,27.1,1,968.8,12.0,1.0
+Nizamabad,Chickpea,5.55,Clay,660.3,26.0,0,2794.0,137.9,0.648
+Anantapur,Blackbeans,8.05,Clay,441.0,34.5,0,2757.6,19.7,0.681
+Warangal,Mungbean,7.41,Sandy Loam,615.0,33.6,1,1631.9,168.8,0.668
+Karimnagar,Mungbean,7.37,Clay Loam,846.1,32.0,0,2567.2,116.9,0.734
+Anantapur,Pea Protein,6.83,Loamy,427.5,17.0,1,2916.5,95.9,0.727
+Adilabad,Lentils,8.39,Clay,946.1,34.9,1,2703.1,76.5,0.807
+Karimnagar,Mungbean,6.43,Sandy,1004.6,23.9,0,2078.0,41.1,0.895
+Adilabad,Quinoa,6.63,Clay Loam,630.6,25.5,1,2621.5,178.8,0.742
+Mahabubnagar,Quinoa,6.33,Clay Loam,1140.1,29.5,0,1286.4,26.0,0.878
+Warangal,Mungbean,7.03,Clay,791.2,22.2,1,1605.8,137.0,0.861
+Nizamabad,Chickpea,6.9,Clay,347.4,15.8,0,1465.9,60.8,0.641
+Nalgonda,Blackbeans,6.07,Loamy,714.6,20.7,1,763.0,137.7,0.766
+Warangal,Lentils,7.98,Sandy Loam,1081.4,23.3,1,1990.6,144.9,0.81
+Karimnagar,Lentils,7.21,Clay,1128.7,34.4,1,2887.6,184.7,0.717
+Karimnagar,Lentils,8.05,Sandy Loam,1115.4,25.8,0,1638.7,120.6,0.751
+Adilabad,Soy,8.25,Sandy Loam,853.9,18.9,1,2780.5,49.8,0.893
+Karimnagar,Millets,7.98,Clay Loam,1171.1,32.8,0,934.2,141.1,0.654
+Hindupur,Chickpea,8.48,Clay,539.5,31.7,1,720.4,88.6,0.718
+Anantapur,Soy,6.83,Sandy,805.3,32.0,1,1601.5,172.8,0.761
+Anantapur,Oats,8.38,Sandy Loam,894.3,25.5,1,1286.5,107.3,0.856
+Nizamabad,Pea Protein,6.12,Sandy,484.7,18.8,0,997.9,90.7,0.634
+Nizamabad,Lentils,7.89,Sandy,542.5,32.7,1,645.6,59.8,0.785
+Warangal,Kidneybeans,8.34,Clay Loam,990.2,20.4,1,952.2,149.6,0.753
+Medak,Mungbean,7.05,Loamy,997.2,26.2,0,1446.7,191.3,0.698
+Warangal,Quinoa,7.47,Clay,478.4,17.9,1,2922.0,102.0,0.728
+Warangal,Oats,8.49,Sandy,687.3,21.4,1,2001.5,21.9,0.904
+Hindupur,Quinoa,6.54,Sandy Loam,538.7,28.7,0,2870.5,102.5,0.685
+Kurnool,Soy,7.68,Sandy Loam,497.7,24.0,1,2922.4,145.7,0.719
+Kurnool,Pea Protein,7.37,Clay Loam,786.1,30.0,1,1981.2,101.7,0.871
+Hindupur,Chickpea,6.98,Sandy,1053.1,18.3,0,2009.5,66.8,0.831
+Karimnagar,Soy,8.4,Loamy,417.6,22.4,0,863.1,109.6,0.587
+Karimnagar,Soy,8.02,Sandy,332.4,28.2,1,2428.7,183.9,0.559
+Karimnagar,Chickpea,8.27,Sandy,486.0,32.5,1,2497.7,106.6,0.675
+Kurnool,Lentils,5.97,Loamy,503.1,19.2,1,2899.5,138.5,0.664
+Nalgonda,Soy,5.57,Clay Loam,1051.7,22.3,0,2645.9,54.2,0.81
+Adilabad,Quinoa,6.16,Clay Loam,1132.8,32.4,0,2720.7,97.4,0.732
+Hindupur,Pea Protein,8.41,Sandy,803.1,21.7,1,1737.1,26.4,0.947
+Anantapur,Chickpea,7.73,Sandy,975.2,21.3,0,1964.1,11.6,0.904
+Kurnool,Kidneybeans,7.16,Clay,301.4,20.7,1,1100.4,71.5,0.753
+Nizamabad,Oats,6.07,Clay Loam,1036.9,17.3,1,1466.2,89.8,0.835
+Karimnagar,Lentils,6.86,Sandy Loam,452.5,27.7,1,2267.0,184.8,0.657
+Mahabubnagar,Mungbean,8.15,Clay,1147.7,29.8,1,1754.6,93.2,0.847
+Anantapur,Soy,6.07,Clay Loam,1011.5,24.1,1,2237.8,127.1,0.847
+Anantapur,Chickpea,6.26,Sandy Loam,1128.7,26.6,0,1876.7,189.4,0.657
+Nizamabad,Kidneybeans,5.85,Sandy,416.2,25.7,1,2454.8,47.1,0.812
+Medak,Kidneybeans,5.67,Clay Loam,905.5,25.6,0,999.2,80.5,0.797
+Medak,Mungbean,6.42,Clay,772.1,28.0,0,1852.1,165.5,0.678
+Mahabubnagar,Blackbeans,5.71,Sandy Loam,611.1,29.9,0,1530.0,36.3,0.753
+Anantapur,Oats,7.42,Loamy,604.2,33.1,0,1139.7,87.3,0.69
+Kurnool,Quinoa,7.31,Clay,927.7,16.8,0,1526.5,180.7,0.63
+Medak,Quinoa,8.08,Loamy,379.9,32.3,1,1521.9,91.5,0.671
+Mahabubnagar,Oats,6.25,Clay,588.5,17.7,0,1899.3,78.2,0.688
+Hindupur,Oats,7.74,Clay Loam,1104.2,30.1,0,2831.6,85.0,0.779
+Anantapur,Soy,6.24,Sandy Loam,356.9,17.6,0,2018.7,109.4,0.553
+Warangal,Blackbeans,7.08,Sandy,889.9,19.7,0,544.1,108.2,0.78
+Anantapur,Blackbeans,6.56,Sandy,789.1,16.5,0,2507.6,88.9,0.752
+Medak,Blackbeans,7.49,Sandy,620.0,31.2,1,1261.3,14.7,0.921
+Karimnagar,Pea Protein,6.41,Clay,713.4,31.4,0,1167.9,56.5,0.785
+Adilabad,Pea Protein,6.2,Loamy,938.0,31.5,0,531.4,39.3,0.83
+Karimnagar,Millets,8.16,Loamy,1100.0,29.9,0,1990.2,27.0,0.844
+Adilabad,Soy,7.92,Sandy,713.7,19.5,0,1541.6,39.5,0.8
+Nalgonda,Pea Protein,8.33,Clay Loam,303.4,19.8,1,857.1,155.2,0.553
+Nizamabad,Chickpea,8.06,Loamy,963.6,32.6,0,685.2,198.6,0.565
+Nizamabad,Millets,5.84,Loamy,766.5,26.7,1,503.6,95.4,0.861
+Nizamabad,Quinoa,8.5,Sandy,558.2,20.6,0,2004.6,22.3,0.746
+Kurnool,Kidneybeans,7.18,Clay Loam,768.1,27.2,1,1320.6,31.4,1.0
+Mahabubnagar,Quinoa,6.79,Sandy Loam,558.5,29.7,0,1281.8,121.7,0.667
+Karimnagar,Oats,6.95,Loamy,752.8,21.3,0,1500.1,157.9,0.706
+Kurnool,Soy,6.73,Sandy,599.7,17.5,0,1292.3,98.8,0.686
+Anantapur,Lentils,5.79,Clay Loam,774.1,16.1,0,2069.7,79.4,0.714
+Anantapur,Kidneybeans,7.97,Sandy,808.4,18.6,1,630.2,12.4,0.962
+Mahabubnagar,Kidneybeans,5.89,Sandy,512.0,33.7,0,1994.0,163.8,0.497
+Medak,Oats,7.81,Clay,972.9,19.7,1,993.1,50.6,0.925
+Anantapur,Millets,5.77,Sandy,760.4,33.4,1,1408.3,84.2,0.805
+Warangal,Millets,8.4,Clay,1123.3,18.3,1,2363.1,107.7,0.792
+Hindupur,Blackbeans,7.02,Sandy Loam,661.1,32.1,0,2828.7,182.6,0.602
+Hindupur,Soy,7.38,Clay Loam,547.7,33.2,1,1425.7,53.0,0.822
+Nizamabad,Chickpea,6.2,Sandy,480.6,29.3,0,949.1,119.8,0.612
+Hindupur,Kidneybeans,7.7,Clay Loam,602.7,21.6,0,1586.7,46.6,0.782
+Warangal,Mungbean,6.3,Sandy,990.5,19.1,0,1839.2,172.3,0.642
+Warangal,Soy,7.03,Clay,714.5,33.0,1,2587.2,153.6,0.756
+Anantapur,Quinoa,5.85,Sandy,1021.4,25.6,0,1074.3,47.9,0.856
+Adilabad,Chickpea,7.8,Clay,620.6,20.5,1,2628.7,101.8,0.789
+Nalgonda,Millets,8.28,Clay,883.6,22.6,1,1448.4,183.1,0.728
+Adilabad,Quinoa,8.1,Sandy Loam,455.0,32.0,1,2038.9,17.5,0.811
+Nizamabad,Pea Protein,6.35,Sandy Loam,949.8,32.2,1,733.8,91.2,0.853
+Hindupur,Mungbean,6.84,Clay,344.4,26.4,1,1744.9,68.9,0.803
+Medak,Kidneybeans,7.11,Loamy,304.2,16.4,0,2408.2,35.9,0.668
+Kurnool,Soy,6.84,Clay,306.4,31.4,1,2103.2,88.6,0.709
+Anantapur,Soy,6.46,Clay,1172.1,33.7,1,1245.4,34.0,0.931
+Anantapur,Lentils,5.73,Sandy Loam,819.4,27.9,0,1866.5,92.8,0.759
+Nizamabad,Pea Protein,7.52,Loamy,757.8,29.4,0,2587.4,170.1,0.655
+Karimnagar,Millets,6.91,Clay Loam,441.6,15.6,1,2505.5,76.3,0.752
+Hindupur,Quinoa,7.24,Sandy Loam,900.3,33.2,0,2552.1,54.9,0.822
+Nizamabad,Soy,7.8,Clay Loam,615.6,22.5,0,2589.7,29.2,0.817
+Mahabubnagar,Millets,5.55,Clay,450.1,27.1,0,1760.7,174.5,0.503
+Nizamabad,Chickpea,6.18,Sandy Loam,966.0,21.2,0,2481.7,124.7,0.728
+Mahabubnagar,Soy,5.53,Sandy Loam,1027.9,20.2,1,1966.9,94.7,0.826
+Kurnool,Millets,6.3,Sandy Loam,831.7,25.1,0,876.5,187.2,0.678
+Nizamabad,Chickpea,7.86,Sandy Loam,1015.8,17.7,0,2695.6,110.2,0.713
+Hindupur,Chickpea,6.97,Loamy,407.8,31.1,1,1889.8,86.8,0.761
+Nizamabad,Blackbeans,6.81,Sandy Loam,870.4,24.0,0,585.7,104.5,0.822
+Medak,Chickpea,5.54,Loamy,317.5,34.5,0,1759.2,44.7,0.574
+Anantapur,Soy,7.71,Sandy,602.0,30.3,0,1650.2,66.6,0.732
+Hindupur,Mungbean,7.46,Clay Loam,856.7,21.2,0,2986.5,101.6,0.783
+Anantapur,Soy,6.43,Sandy Loam,588.1,31.8,0,1091.6,179.1,0.552
+Adilabad,Millets,8.49,Sandy Loam,472.1,21.3,0,570.5,56.5,0.67
+Karimnagar,Millets,6.72,Clay,472.1,25.3,1,1277.6,72.1,0.85
+Karimnagar,Blackbeans,7.22,Clay Loam,1116.7,17.4,1,2460.7,120.9,0.831
+Medak,Soy,6.94,Loamy,455.1,30.0,1,1652.2,137.5,0.71
+Karimnagar,Lentils,8.25,Sandy,477.7,34.7,0,815.7,189.7,0.426
+Anantapur,Millets,5.64,Sandy Loam,861.6,27.5,1,1047.6,94.2,0.856
+Anantapur,Pea Protein,5.81,Clay,1166.1,32.8,1,1960.8,106.6,0.794
+Warangal,Pea Protein,7.24,Loamy,956.9,23.2,1,1748.9,93.3,0.928
+Nalgonda,Mungbean,6.87,Clay,536.2,19.8,0,2544.6,75.8,0.729
+Nalgonda,Blackbeans,5.8,Clay,1165.7,28.1,1,1026.3,105.3,0.843
+Anantapur,Pea Protein,5.9,Sandy Loam,583.3,24.7,0,2805.6,122.6,0.669
+Nizamabad,Kidneybeans,6.26,Loamy,1123.1,17.3,1,1762.3,43.5,0.915
+Karimnagar,Chickpea,5.89,Sandy Loam,989.5,33.6,1,2335.8,130.8,0.754
+Karimnagar,Blackbeans,8.3,Loamy,465.2,20.1,0,2400.8,89.9,0.616
+Karimnagar,Mungbean,6.01,Sandy,540.5,25.2,1,2454.1,29.7,0.9
+Nalgonda,Kidneybeans,8.31,Loamy,1121.0,33.9,1,1596.7,112.7,0.767
+Medak,Quinoa,8.42,Sandy Loam,1073.4,17.2,1,1357.9,116.7,0.766
+Anantapur,Lentils,6.35,Sandy Loam,1098.8,22.4,0,2032.9,175.1,0.674
+Medak,Kidneybeans,7.96,Sandy,1115.0,17.4,1,2238.5,166.8,0.719
+Karimnagar,Blackbeans,7.94,Loamy,1068.1,33.3,1,2823.5,129.4,0.769
+Anantapur,Pea Protein,7.66,Sandy,700.0,20.1,1,2542.5,87.7,0.844
+Warangal,Mungbean,6.07,Clay Loam,647.6,24.7,0,2739.1,34.0,0.836
+Kurnool,Lentils,6.79,Sandy,1087.5,21.0,1,2409.0,198.6,0.75
+Anantapur,Quinoa,5.66,Loamy,426.4,27.5,0,2562.1,172.8,0.5
+Adilabad,Soy,6.52,Loamy,1165.7,25.9,0,1732.0,40.5,0.902
+Medak,Chickpea,7.46,Loamy,614.1,34.3,0,822.6,91.8,0.673
+Mahabubnagar,Soy,5.62,Loamy,1122.4,31.7,0,1700.0,86.5,0.725
+Nalgonda,Blackbeans,6.41,Loamy,626.3,16.3,0,2931.6,125.3,0.626
+Kurnool,Soy,6.24,Loamy,778.9,24.6,0,1019.6,164.5,0.698
+Warangal,Blackbeans,7.71,Clay Loam,470.2,26.5,1,1884.2,45.8,0.852
+Hindupur,Millets,6.56,Clay Loam,510.7,16.0,0,987.6,192.5,0.487
+Mahabubnagar,Pea Protein,7.04,Loamy,541.0,24.1,1,2188.8,157.7,0.755
+Nalgonda,Soy,6.99,Clay,790.0,18.4,1,2197.0,43.5,0.964
+Medak,Quinoa,6.2,Sandy,542.7,28.1,0,2624.0,101.2,0.675
+Warangal,Millets,8.07,Clay Loam,763.2,17.1,0,2185.5,130.3,0.651
+Medak,Kidneybeans,5.74,Loamy,774.6,23.1,0,2208.6,139.9,0.689
+Warangal,Mungbean,8.02,Sandy,821.8,27.4,0,736.8,195.4,0.625
+Anantapur,Lentils,6.05,Clay Loam,830.4,26.2,0,654.0,40.9,0.872
+Medak,Quinoa,6.25,Clay,359.0,28.8,0,1672.6,105.8,0.595
+Mahabubnagar,Pea Protein,8.41,Clay,458.1,26.9,1,1584.4,77.6,0.755
+Anantapur,Millets,6.96,Clay,789.1,21.1,0,982.5,32.1,0.906
+Adilabad,Millets,6.67,Sandy Loam,674.2,24.4,1,1817.9,149.5,0.804
+Medak,Blackbeans,6.15,Sandy,465.1,23.6,0,557.6,180.4,0.541
+Nalgonda,Chickpea,5.52,Clay Loam,331.7,33.2,1,687.9,35.5,0.704
+Anantapur,Quinoa,8.03,Clay,984.5,18.4,0,790.7,111.9,0.707
+Nizamabad,Blackbeans,7.53,Clay,747.5,16.9,0,2019.4,86.9,0.738
+Warangal,Chickpea,8.04,Loamy,849.9,15.8,1,1433.6,82.9,0.824
+Anantapur,Lentils,7.34,Clay,600.7,31.4,1,1271.2,13.8,0.921
+Anantapur,Pea Protein,5.92,Sandy,789.8,15.2,0,1357.4,36.3,0.782
+Hindupur,Lentils,6.71,Clay Loam,910.8,23.4,0,2894.6,177.9,0.701
+Karimnagar,Mungbean,6.51,Clay Loam,812.5,32.2,1,2009.0,105.7,0.841
+Anantapur,Mungbean,7.02,Sandy Loam,1174.4,20.5,1,1892.0,189.8,0.769
+Mahabubnagar,Lentils,7.18,Sandy,467.3,19.5,0,556.4,31.4,0.762
+Karimnagar,Oats,7.15,Sandy Loam,973.5,30.7,1,1423.5,106.1,0.876
+Hindupur,Mungbean,6.56,Sandy,851.4,26.7,1,2614.9,91.2,0.921
+Nalgonda,Chickpea,6.17,Loamy,750.2,31.8,1,591.6,47.2,0.895
+Adilabad,Blackbeans,6.68,Clay Loam,472.7,16.2,1,1544.8,152.2,0.643
+Warangal,Soy,6.22,Sandy Loam,1147.6,27.1,0,2864.2,87.7,0.803
+Mahabubnagar,Mungbean,7.39,Loamy,704.6,18.8,0,1082.6,119.0,0.701
+Adilabad,Chickpea,5.84,Clay Loam,948.6,25.0,1,1355.1,168.1,0.781
+Nizamabad,Quinoa,5.61,Sandy Loam,630.5,25.8,1,2266.8,66.6,0.849
+Mahabubnagar,Pea Protein,7.52,Loamy,654.9,15.0,0,2264.1,103.0,0.662
+Adilabad,Oats,7.07,Clay Loam,366.8,18.8,0,619.6,171.5,0.515
+Anantapur,Oats,8.47,Loamy,488.5,15.2,0,2337.1,67.9,0.6
+Hindupur,Oats,7.24,Sandy,1113.6,21.4,0,2619.1,156.6,0.715
+Warangal,Kidneybeans,6.39,Clay,1099.4,31.8,1,1113.2,95.2,0.854
+Anantapur,Millets,6.81,Clay,1074.9,26.3,0,2323.8,76.0,0.862
+Warangal,Oats,5.94,Sandy Loam,665.5,17.3,0,1721.5,124.6,0.624
+Kurnool,Chickpea,7.5,Clay Loam,339.5,21.5,0,821.9,115.8,0.59
+Medak,Kidneybeans,6.5,Clay Loam,694.5,20.3,0,2389.9,131.6,0.687
+Warangal,Pea Protein,6.46,Loamy,832.6,16.4,0,2726.2,118.2,0.706
+Adilabad,Soy,6.07,Loamy,399.2,29.4,0,2105.7,17.3,0.726
+Adilabad,Millets,7.0,Clay Loam,621.8,20.5,1,2316.2,168.8,0.735
+Nalgonda,Mungbean,8.46,Clay,761.3,33.7,0,2911.7,24.0,0.779
+Karimnagar,Mungbean,6.02,Clay,821.7,26.1,0,734.1,155.9,0.699
+Anantapur,Quinoa,7.21,Loamy,964.5,17.8,0,1982.5,187.8,0.635
+Nizamabad,Chickpea,7.57,Clay Loam,609.6,20.5,0,750.0,16.4,0.827
+Karimnagar,Mungbean,7.89,Sandy Loam,606.2,15.1,1,1843.4,169.7,0.623
+Nalgonda,Lentils,6.34,Sandy Loam,823.7,16.1,0,1058.1,185.2,0.595
+Hindupur,Oats,8.29,Sandy Loam,304.8,30.0,0,2820.8,20.4,0.66
+Karimnagar,Soy,7.13,Clay,774.7,17.8,1,1462.9,74.9,0.899
+Warangal,Millets,7.05,Clay Loam,954.3,26.6,1,2009.4,41.1,1.0
+Medak,Mungbean,6.89,Clay,839.5,18.4,1,534.3,185.1,0.75
+Mahabubnagar,Kidneybeans,7.56,Sandy Loam,415.4,23.5,0,1912.6,137.2,0.603
+Nizamabad,Oats,6.09,Sandy,852.5,16.8,0,2840.6,174.7,0.603
+Karimnagar,Soy,6.35,Sandy,640.2,17.1,0,1346.9,99.3,0.674
+Warangal,Soy,6.47,Clay Loam,600.8,15.5,0,2076.4,152.4,0.572
+Medak,Oats,8.14,Sandy Loam,311.7,33.9,1,1499.0,172.0,0.505
+Nalgonda,Soy,7.15,Clay,497.4,23.6,0,2834.9,48.6,0.791
+Warangal,Quinoa,6.2,Loamy,537.1,15.8,1,1634.7,137.4,0.657
+Nalgonda,Millets,6.24,Sandy Loam,755.8,31.9,1,1057.7,20.7,0.94
+Kurnool,Soy,6.19,Loamy,764.4,20.1,0,2133.2,23.4,0.856
+Kurnool,Soy,6.74,Sandy,954.8,24.0,1,2824.0,45.0,1.0
+Nizamabad,Pea Protein,6.72,Loamy,413.0,31.3,1,2691.4,40.1,0.816
+Anantapur,Chickpea,8.22,Clay Loam,1054.7,24.4,0,1920.8,93.5,0.784
+Hindupur,Oats,7.34,Clay Loam,1048.9,24.9,0,2782.0,32.5,0.93
+Medak,Kidneybeans,6.39,Sandy Loam,746.1,23.4,1,1519.7,135.7,0.825
+Karimnagar,Blackbeans,5.53,Sandy,864.5,21.3,1,957.3,91.7,0.842
+Mahabubnagar,Kidneybeans,8.02,Sandy,328.8,33.8,0,2027.2,175.5,0.414
+Kurnool,Pea Protein,6.67,Sandy Loam,674.4,29.9,1,1874.1,178.7,0.716
+Warangal,Chickpea,8.33,Clay,733.6,26.4,0,1758.9,162.3,0.641
+Mahabubnagar,Quinoa,8.05,Clay,935.5,24.8,0,1538.6,87.5,0.807

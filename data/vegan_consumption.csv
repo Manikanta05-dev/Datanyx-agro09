@@ -1,0 +1,1001 @@
+date,region,product,consumption,price,genz_ratio,google_trends_score
+2023-01-01,Kolkata,Oat Milk,955,379.4,0.639,32.5
+2023-01-02,Mumbai,Soy Products,153,439.78,0.34,76.6
+2023-01-03,Pune,Tofu,982,424.6,0.185,34.5
+2023-01-04,Chennai,Vegan Meat,379,286.14,0.573,43.3
+2023-01-05,Mumbai,Coconut Milk,144,488.19,0.193,27.2
+2023-01-06,Pune,Vegan Milk,455,492.45,0.287,88.8
+2023-01-07,Kolkata,Tofu,521,55.97,0.477,65.1
+2023-01-08,Bengaluru,Almond Milk,118,153.9,0.496,74.7
+2023-01-09,Delhi,Vegan Cheese,884,128.01,0.256,34.6
+2023-01-10,Delhi,Vegan Paneer,504,143.57,0.327,22.5
+2023-01-11,Bengaluru,Coconut Milk,530,227.82,0.471,78.2
+2023-01-12,Kolkata,Chickpea Flour,648,284.38,0.484,87.6
+2023-01-13,Chennai,Vegan Paneer,621,314.04,0.486,68.6
+2023-01-14,Chennai,Almond Milk,391,124.37,0.406,53.9
+2023-01-15,Hyderabad,Tempeh,390,56.34,0.18,76.9
+2023-01-16,Mumbai,Vegan Meat,694,466.84,0.66,93.2
+2023-01-17,Hyderabad,Chickpea Flour,545,92.93,0.248,73.5
+2023-01-18,Chennai,Vegan Milk,686,173.62,0.324,50.6
+2023-01-19,Kolkata,Vegan Milk,856,302.57,0.408,59.5
+2023-01-20,Hyderabad,Coconut Milk,134,98.55,0.113,70.9
+2023-01-21,Delhi,Vegan Cheese,614,458.4,0.2,52.8
+2023-01-22,Mumbai,Vegan Cheese,338,84.64,0.216,32.9
+2023-01-23,Bengaluru,Coconut Milk,919,335.03,0.449,84.3
+2023-01-24,Delhi,Oat Milk,1007,292.7,0.723,91.7
+2023-01-25,Kolkata,Vegan Meat,386,341.46,0.4,48.2
+2023-01-26,Mumbai,Soy Products,279,290.34,0.294,75.4
+2023-01-27,Bengaluru,Tempeh,361,125.73,0.188,64.6
+2023-01-28,Delhi,Vegan Meat,179,164.26,0.499,75.7
+2023-01-29,Mumbai,Vegan Meat,265,498.98,0.507,98.1
+2023-01-30,Delhi,Plant-Based Protein,148,205.28,0.354,74.5
+2023-01-31,Chennai,Tempeh,577,298.8,0.337,26.5
+2023-02-01,Mumbai,Vegan Meat,870,215.5,0.653,70.7
+2023-02-02,Mumbai,Vegan Meat,272,278.69,0.678,88.7
+2023-02-03,Delhi,Quinoa,346,370.02,0.424,47.9
+2023-02-04,Kolkata,Oat Milk,1103,228.91,0.607,87.0
+2023-02-05,Mumbai,Tempeh,891,144.08,0.317,75.7
+2023-02-06,Kolkata,Tempeh,302,491.98,0.307,40.9
+2023-02-07,Hyderabad,Tempeh,709,447.19,0.175,42.3
+2023-02-08,Mumbai,Vegan Milk,1029,232.03,0.455,88.1
+2023-02-09,Hyderabad,Chickpea Flour,957,351.04,0.332,49.8
+2023-02-10,Hyderabad,Vegan Milk,1162,177.76,0.222,58.8
+2023-02-11,Mumbai,Vegan Cheese,360,370.48,0.195,46.0
+2023-02-12,Delhi,Chickpea Flour,820,432.15,0.363,65.5
+2023-02-13,Delhi,Quinoa,518,169.34,0.198,97.8
+2023-02-14,Chennai,Vegan Milk,1088,334.01,0.418,60.2
+2023-02-15,Delhi,Vegan Meat,333,375.1,0.512,21.9
+2023-02-16,Hyderabad,Vegan Meat,1207,261.48,0.512,90.7
+2023-02-17,Delhi,Almond Milk,1165,198.84,0.621,65.8
+2023-02-18,Delhi,Vegan Meat,204,187.56,0.476,41.5
+2023-02-19,Mumbai,Vegan Paneer,735,471.27,0.378,65.6
+2023-02-20,Bengaluru,Plant-Based Protein,518,164.37,0.218,45.8
+2023-02-21,Hyderabad,Almond Milk,901,211.77,0.517,84.7
+2023-02-22,Mumbai,Vegan Paneer,1086,460.96,0.305,60.1
+2023-02-23,Chennai,Oat Milk,847,365.89,0.718,91.2
+2023-02-24,Kolkata,Tempeh,770,247.31,0.369,46.3
+2023-02-25,Bengaluru,Vegan Cheese,1063,437.18,0.2,23.1
+2023-02-26,Kolkata,Plant-Based Protein,727,196.99,0.431,41.7
+2023-02-27,Delhi,Tofu,639,428.91,0.178,52.9
+2023-02-28,Mumbai,Soy Products,281,109.74,0.488,77.2
+2023-03-01,Mumbai,Vegan Meat,575,245.08,0.698,40.1
+2023-03-02,Bengaluru,Tofu,217,242.74,0.375,24.7
+2023-03-03,Bengaluru,Vegan Meat,627,157.9,0.438,34.6
+2023-03-04,Chennai,Tofu,851,282.51,0.363,54.9
+2023-03-05,Chennai,Soy Products,180,304.72,0.163,29.6
+2023-03-06,Chennai,Tempeh,179,68.33,0.442,76.3
+2023-03-07,Delhi,Coconut Milk,999,413.11,0.239,57.2
+2023-03-08,Chennai,Soy Products,182,477.12,0.455,40.9
+2023-03-09,Bengaluru,Coconut Milk,1197,275.47,0.316,74.7
+2023-03-10,Kolkata,Vegan Paneer,158,313.6,0.476,66.0
+2023-03-11,Bengaluru,Vegan Milk,867,256.21,0.318,95.3
+2023-03-12,Mumbai,Vegan Meat,1235,457.41,0.478,25.5
+2023-03-13,Kolkata,Vegan Paneer,173,328.21,0.235,72.5
+2023-03-14,Chennai,Coconut Milk,915,203.28,0.204,59.7
+2023-03-15,Bengaluru,Tofu,531,471.49,0.116,53.4
+2023-03-16,Chennai,Almond Milk,763,240.56,0.627,66.1
+2023-03-17,Mumbai,Oat Milk,560,399.39,0.536,94.5
+2023-03-18,Chennai,Tempeh,626,387.89,0.402,28.2
+2023-03-19,Hyderabad,Vegan Meat,716,421.91,0.528,91.6
+2023-03-20,Hyderabad,Oat Milk,141,457.42,0.437,45.5
+2023-03-21,Pune,Oat Milk,796,334.33,0.579,43.5
+2023-03-22,Hyderabad,Oat Milk,912,388.57,0.717,83.2
+2023-03-23,Chennai,Tofu,705,75.9,0.32,55.3
+2023-03-24,Kolkata,Vegan Cheese,538,102.68,0.157,80.9
+2023-03-25,Delhi,Vegan Meat,247,87.85,0.68,25.8
+2023-03-26,Bengaluru,Quinoa,954,86.61,0.134,98.9
+2023-03-27,Chennai,Vegan Meat,1158,156.51,0.763,67.4
+2023-03-28,Delhi,Plant-Based Protein,957,266.75,0.251,76.4
+2023-03-29,Bengaluru,Coconut Milk,516,245.5,0.201,52.4
+2023-03-30,Pune,Coconut Milk,996,395.24,0.429,79.5
+2023-03-31,Mumbai,Vegan Cheese,407,230.1,0.291,26.6
+2023-04-01,Hyderabad,Plant-Based Protein,640,410.95,0.491,64.5
+2023-04-02,Kolkata,Tofu,180,466.09,0.468,40.2
+2023-04-03,Mumbai,Oat Milk,218,124.8,0.487,43.6
+2023-04-04,Hyderabad,Tofu,945,222.89,0.395,93.2
+2023-04-05,Bengaluru,Chickpea Flour,591,98.04,0.234,33.6
+2023-04-06,Delhi,Coconut Milk,583,153.23,0.206,48.8
+2023-04-07,Delhi,Quinoa,946,291.24,0.224,85.1
+2023-04-08,Delhi,Vegan Cheese,285,84.29,0.476,53.3
+2023-04-09,Chennai,Almond Milk,618,469.73,0.746,23.6
+2023-04-10,Kolkata,Chickpea Flour,569,414.75,0.495,32.0
+2023-04-11,Chennai,Coconut Milk,574,486.46,0.437,87.1
+2023-04-12,Bengaluru,Almond Milk,613,173.03,0.423,89.2
+2023-04-13,Hyderabad,Tofu,1294,498.49,0.322,81.5
+2023-04-14,Chennai,Coconut Milk,1118,161.31,0.28,30.3
+2023-04-15,Mumbai,Vegan Cheese,834,152.89,0.369,69.5
+2023-04-16,Delhi,Chickpea Flour,154,274.17,0.29,86.5
+2023-04-17,Bengaluru,Tempeh,1077,485.59,0.135,83.3
+2023-04-18,Hyderabad,Soy Products,1004,329.14,0.382,37.0
+2023-04-19,Pune,Tempeh,1264,323.64,0.355,64.4
+2023-04-20,Mumbai,Vegan Paneer,531,281.3,0.413,51.7
+2023-04-21,Kolkata,Coconut Milk,1125,477.28,0.159,94.1
+2023-04-22,Bengaluru,Vegan Meat,426,256.61,0.792,59.4
+2023-04-23,Chennai,Quinoa,796,203.7,0.315,56.8
+2023-04-24,Kolkata,Quinoa,287,338.39,0.173,47.7
+2023-04-25,Mumbai,Vegan Milk,720,487.9,0.341,37.9
+2023-04-26,Chennai,Tofu,523,206.43,0.113,63.9
+2023-04-27,Chennai,Almond Milk,535,452.4,0.451,46.4
+2023-04-28,Mumbai,Almond Milk,232,266.52,0.675,60.9
+2023-04-29,Mumbai,Vegan Cheese,129,440.74,0.134,67.8
+2023-04-30,Delhi,Chickpea Flour,678,328.21,0.248,57.0
+2023-05-01,Chennai,Coconut Milk,168,163.6,0.385,91.6
+2023-05-02,Pune,Quinoa,730,98.23,0.279,62.6
+2023-05-03,Kolkata,Almond Milk,961,132.03,0.626,87.3
+2023-05-04,Pune,Coconut Milk,730,154.95,0.237,57.9
+2023-05-05,Bengaluru,Vegan Milk,857,265.81,0.334,78.9
+2023-05-06,Kolkata,Chickpea Flour,785,304.01,0.252,47.0
+2023-05-07,Delhi,Coconut Milk,807,159.96,0.299,46.4
+2023-05-08,Hyderabad,Vegan Meat,132,151.4,0.546,59.0
+2023-05-09,Pune,Quinoa,222,412.64,0.122,87.4
+2023-05-10,Mumbai,Vegan Milk,144,363.63,0.499,91.7
+2023-05-11,Delhi,Tempeh,1143,52.39,0.49,59.3
+2023-05-12,Pune,Vegan Milk,1033,373.31,0.314,58.1
+2023-05-13,Chennai,Tempeh,349,485.6,0.384,36.0
+2023-05-14,Delhi,Vegan Meat,707,368.25,0.707,27.0
+2023-05-15,Pune,Quinoa,1147,194.29,0.338,49.5
+2023-05-16,Bengaluru,Tofu,191,495.48,0.229,84.8
+2023-05-17,Hyderabad,Tofu,124,102.51,0.289,68.5
+2023-05-18,Mumbai,Vegan Meat,1048,385.69,0.563,94.6
+2023-05-19,Mumbai,Almond Milk,343,220.65,0.771,77.7
+2023-05-20,Delhi,Vegan Cheese,271,407.87,0.181,33.1
+2023-05-21,Chennai,Tofu,1000,349.34,0.309,48.7
+2023-05-22,Chennai,Coconut Milk,542,417.47,0.276,50.2
+2023-05-23,Mumbai,Vegan Cheese,442,386.42,0.301,38.6
+2023-05-24,Hyderabad,Soy Products,687,79.98,0.192,63.4
+2023-05-25,Pune,Plant-Based Protein,473,378.75,0.377,33.3
+2023-05-26,Kolkata,Vegan Cheese,644,383.66,0.329,99.8
+2023-05-27,Hyderabad,Vegan Meat,866,400.36,0.457,36.4
+2023-05-28,Bengaluru,Coconut Milk,638,389.59,0.141,62.9
+2023-05-29,Kolkata,Oat Milk,597,321.78,0.601,63.2
+2023-05-30,Chennai,Oat Milk,872,374.02,0.656,75.5
+2023-05-31,Delhi,Coconut Milk,378,205.56,0.173,92.7
+2023-06-01,Pune,Plant-Based Protein,532,257.9,0.479,32.3
+2023-06-02,Chennai,Chickpea Flour,638,325.15,0.107,89.8
+2023-06-03,Delhi,Tempeh,697,363.49,0.469,76.6
+2023-06-04,Bengaluru,Vegan Meat,706,323.02,0.57,78.9
+2023-06-05,Hyderabad,Plant-Based Protein,1045,105.26,0.194,33.2
+2023-06-06,Delhi,Plant-Based Protein,966,199.47,0.225,38.2
+2023-06-07,Kolkata,Tofu,497,384.91,0.182,83.0
+2023-06-08,Bengaluru,Almond Milk,227,236.53,0.745,93.8
+2023-06-09,Kolkata,Vegan Paneer,595,463.3,0.335,22.6
+2023-06-10,Mumbai,Vegan Milk,360,309.93,0.166,22.7
+2023-06-11,Hyderabad,Vegan Meat,889,174.91,0.488,37.0
+2023-06-12,Hyderabad,Soy Products,1079,256.55,0.323,88.9
+2023-06-13,Kolkata,Vegan Cheese,292,184.82,0.224,51.8
+2023-06-14,Mumbai,Quinoa,896,207.22,0.287,70.0
+2023-06-15,Chennai,Chickpea Flour,684,182.32,0.386,62.2
+2023-06-16,Pune,Tempeh,577,273.66,0.406,28.2
+2023-06-17,Chennai,Soy Products,1026,217.99,0.208,71.5
+2023-06-18,Delhi,Vegan Meat,131,120.27,0.686,72.7
+2023-06-19,Hyderabad,Almond Milk,320,153.98,0.669,21.6
+2023-06-20,Pune,Almond Milk,872,130.35,0.661,39.1
+2023-06-21,Bengaluru,Vegan Milk,337,375.02,0.442,86.4
+2023-06-22,Delhi,Oat Milk,739,142.24,0.517,91.7
+2023-06-23,Kolkata,Coconut Milk,185,143.55,0.111,34.5
+2023-06-24,Delhi,Vegan Cheese,500,451.7,0.427,47.3
+2023-06-25,Bengaluru,Vegan Paneer,443,65.4,0.432,47.6
+2023-06-26,Pune,Almond Milk,509,182.51,0.779,81.1
+2023-06-27,Hyderabad,Coconut Milk,626,493.42,0.288,34.6
+2023-06-28,Bengaluru,Vegan Milk,574,383.76,0.38,52.2
+2023-06-29,Hyderabad,Plant-Based Protein,692,239.77,0.153,92.0
+2023-06-30,Bengaluru,Soy Products,724,420.16,0.312,85.2
+2023-07-01,Hyderabad,Plant-Based Protein,161,232.36,0.299,77.6
+2023-07-02,Chennai,Coconut Milk,226,168.66,0.207,78.6
+2023-07-03,Bengaluru,Tempeh,668,272.42,0.329,87.0
+2023-07-04,Chennai,Tempeh,787,239.92,0.242,96.7
+2023-07-05,Hyderabad,Vegan Milk,178,396.94,0.127,87.0
+2023-07-06,Mumbai,Oat Milk,733,183.7,0.627,58.1
+2023-07-07,Kolkata,Chickpea Flour,921,379.66,0.186,22.5
+2023-07-08,Delhi,Vegan Milk,617,73.14,0.299,67.7
+2023-07-09,Bengaluru,Almond Milk,767,97.97,0.43,78.3
+2023-07-10,Hyderabad,Vegan Cheese,691,245.67,0.199,85.5
+2023-07-11,Chennai,Tempeh,693,172.47,0.336,48.9
+2023-07-12,Delhi,Quinoa,880,111.57,0.48,55.7
+2023-07-13,Kolkata,Tempeh,556,442.83,0.393,84.5
+2023-07-14,Kolkata,Tofu,680,432.14,0.2,59.2
+2023-07-15,Kolkata,Quinoa,925,474.83,0.116,76.4
+2023-07-16,Kolkata,Vegan Meat,244,305.58,0.766,22.7
+2023-07-17,Chennai,Soy Products,340,465.98,0.488,95.5
+2023-07-18,Bengaluru,Oat Milk,792,193.6,0.732,23.0
+2023-07-19,Kolkata,Chickpea Flour,281,104.26,0.131,75.7
+2023-07-20,Bengaluru,Soy Products,422,307.59,0.422,63.1
+2023-07-21,Pune,Almond Milk,692,284.08,0.571,90.1
+2023-07-22,Bengaluru,Soy Products,464,495.65,0.1,34.8
+2023-07-23,Bengaluru,Vegan Milk,146,54.27,0.121,27.1
+2023-07-24,Pune,Tofu,474,311.34,0.209,51.9
+2023-07-25,Pune,Almond Milk,357,285.13,0.693,20.3
+2023-07-26,Chennai,Chickpea Flour,316,183.34,0.193,23.4
+2023-07-27,Hyderabad,Tofu,867,242.5,0.254,74.4
+2023-07-28,Delhi,Quinoa,833,403.86,0.136,53.4
+2023-07-29,Kolkata,Chickpea Flour,451,326.04,0.167,99.3
+2023-07-30,Mumbai,Chickpea Flour,818,342.34,0.343,61.0
+2023-07-31,Bengaluru,Quinoa,222,149.22,0.175,82.4
+2023-08-01,Pune,Tofu,129,486.1,0.454,94.2
+2023-08-02,Bengaluru,Vegan Meat,217,228.31,0.703,75.7
+2023-08-03,Mumbai,Vegan Milk,255,150.72,0.315,67.4
+2023-08-04,Pune,Tofu,153,444.86,0.206,30.4
+2023-08-05,Hyderabad,Vegan Milk,803,437.96,0.424,72.4
+2023-08-06,Chennai,Quinoa,148,233.8,0.249,40.8
+2023-08-07,Chennai,Coconut Milk,479,482.95,0.144,91.6
+2023-08-08,Chennai,Vegan Meat,127,447.31,0.606,92.5
+2023-08-09,Mumbai,Chickpea Flour,570,294.7,0.446,78.7
+2023-08-10,Mumbai,Chickpea Flour,261,120.8,0.164,46.7
+2023-08-11,Chennai,Almond Milk,760,97.63,0.68,35.1
+2023-08-12,Chennai,Quinoa,779,259.46,0.452,20.4
+2023-08-13,Mumbai,Tofu,617,122.34,0.427,86.6
+2023-08-14,Chennai,Tempeh,84,179.17,0.347,98.5
+2023-08-15,Hyderabad,Chickpea Flour,265,335.3,0.316,82.4
+2023-08-16,Pune,Vegan Milk,621,293.57,0.485,47.3
+2023-08-17,Delhi,Tofu,151,471.75,0.375,25.4
+2023-08-18,Mumbai,Vegan Meat,622,368.86,0.589,24.6
+2023-08-19,Mumbai,Vegan Paneer,690,488.07,0.488,80.0
+2023-08-20,Mumbai,Oat Milk,608,61.06,0.409,45.9
+2023-08-21,Kolkata,Vegan Milk,253,50.46,0.164,57.5
+2023-08-22,Delhi,Vegan Meat,147,434.39,0.611,86.1
+2023-08-23,Mumbai,Oat Milk,656,397.77,0.492,30.5
+2023-08-24,Mumbai,Vegan Meat,739,64.09,0.693,92.8
+2023-08-25,Chennai,Quinoa,736,392.04,0.277,45.0
+2023-08-26,Bengaluru,Tempeh,570,385.63,0.18,89.4
+2023-08-27,Delhi,Vegan Paneer,662,262.94,0.487,34.8
+2023-08-28,Hyderabad,Vegan Cheese,600,396.91,0.438,80.9
+2023-08-29,Mumbai,Vegan Cheese,163,64.64,0.468,69.3
+2023-08-30,Pune,Almond Milk,75,319.25,0.643,39.8
+2023-08-31,Hyderabad,Plant-Based Protein,225,122.37,0.361,46.1
+2023-09-01,Bengaluru,Chickpea Flour,363,492.96,0.16,57.2
+2023-09-02,Pune,Vegan Paneer,392,320.01,0.217,75.6
+2023-09-03,Hyderabad,Tempeh,590,67.83,0.292,28.4
+2023-09-04,Hyderabad,Tempeh,724,114.12,0.3,69.5
+2023-09-05,Delhi,Vegan Meat,441,54.4,0.531,61.4
+2023-09-06,Hyderabad,Almond Milk,302,64.94,0.431,51.8
+2023-09-07,Bengaluru,Plant-Based Protein,443,360.26,0.42,36.0
+2023-09-08,Kolkata,Tempeh,140,336.39,0.383,22.5
+2023-09-09,Pune,Almond Milk,106,293.58,0.684,89.7
+2023-09-10,Bengaluru,Tempeh,592,202.75,0.426,26.4
+2023-09-11,Delhi,Oat Milk,458,402.72,0.592,23.3
+2023-09-12,Delhi,Coconut Milk,354,376.17,0.337,72.0
+2023-09-13,Hyderabad,Vegan Cheese,468,198.06,0.288,79.5
+2023-09-14,Chennai,Soy Products,350,69.65,0.165,21.7
+2023-09-15,Mumbai,Plant-Based Protein,284,294.12,0.297,26.5
+2023-09-16,Mumbai,Vegan Milk,212,238.28,0.181,87.2
+2023-09-17,Hyderabad,Tofu,535,384.22,0.27,47.7
+2023-09-18,Delhi,Oat Milk,392,294.49,0.606,67.0
+2023-09-19,Bengaluru,Tofu,322,322.78,0.339,83.4
+2023-09-20,Kolkata,Coconut Milk,701,177.73,0.244,50.7
+2023-09-21,Bengaluru,Chickpea Flour,601,156.11,0.41,52.4
+2023-09-22,Pune,Soy Products,471,217.78,0.305,53.0
+2023-09-23,Pune,Vegan Cheese,347,93.83,0.262,67.4
+2023-09-24,Kolkata,Almond Milk,489,92.87,0.661,45.0
+2023-09-25,Delhi,Vegan Paneer,612,54.06,0.335,67.9
+2023-09-26,Delhi,Vegan Cheese,219,155.6,0.453,55.4
+2023-09-27,Bengaluru,Vegan Cheese,282,423.0,0.272,39.9
+2023-09-28,Mumbai,Tempeh,515,125.17,0.167,22.9
+2023-09-29,Chennai,Tofu,406,401.81,0.382,55.7
+2023-09-30,Kolkata,Plant-Based Protein,199,100.36,0.208,24.6
+2023-10-01,Kolkata,Tofu,660,67.7,0.149,56.2
+2023-10-02,Chennai,Quinoa,269,278.26,0.117,31.9
+2023-10-03,Chennai,Vegan Paneer,678,52.22,0.481,71.1
+2023-10-04,Hyderabad,Soy Products,356,282.02,0.296,73.3
+2023-10-05,Delhi,Soy Products,88,188.57,0.382,36.1
+2023-10-06,Kolkata,Chickpea Flour,681,92.26,0.369,55.5
+2023-10-07,Chennai,Plant-Based Protein,231,347.73,0.491,49.9
+2023-10-08,Pune,Vegan Paneer,224,423.89,0.446,81.5
+2023-10-09,Mumbai,Chickpea Flour,573,463.41,0.34,95.3
+2023-10-10,Pune,Tofu,492,309.73,0.239,32.7
+2023-10-11,Pune,Almond Milk,619,497.0,0.701,27.2
+2023-10-12,Kolkata,Almond Milk,139,342.73,0.706,94.1
+2023-10-13,Mumbai,Plant-Based Protein,642,445.05,0.227,89.5
+2023-10-14,Hyderabad,Chickpea Flour,259,342.08,0.231,70.4
+2023-10-15,Bengaluru,Soy Products,429,221.19,0.319,67.7
+2023-10-16,Hyderabad,Vegan Milk,215,82.94,0.341,73.5
+2023-10-17,Bengaluru,Vegan Paneer,367,220.9,0.445,61.5
+2023-10-18,Pune,Tempeh,87,203.56,0.252,51.9
+2023-10-19,Chennai,Tempeh,377,227.46,0.32,79.8
+2023-10-20,Delhi,Quinoa,406,420.08,0.272,91.7
+2023-10-21,Chennai,Tempeh,687,344.61,0.252,35.8
+2023-10-22,Chennai,Plant-Based Protein,197,124.85,0.347,61.8
+2023-10-23,Pune,Quinoa,674,289.52,0.332,27.2
+2023-10-24,Pune,Vegan Paneer,331,489.53,0.429,61.8
+2023-10-25,Kolkata,Tempeh,190,286.32,0.384,28.6
+2023-10-26,Bengaluru,Vegan Cheese,240,483.32,0.293,84.5
+2023-10-27,Hyderabad,Tempeh,101,334.92,0.481,68.1
+2023-10-28,Pune,Tofu,654,152.64,0.185,68.9
+2023-10-29,Bengaluru,Almond Milk,626,455.01,0.541,38.9
+2023-10-30,Chennai,Oat Milk,255,420.18,0.569,73.4
+2023-10-31,Bengaluru,Vegan Milk,487,253.3,0.335,33.4
+2023-11-01,Mumbai,Tempeh,648,147.53,0.138,21.9
+2023-11-02,Kolkata,Vegan Milk,479,296.01,0.193,51.3
+2023-11-03,Chennai,Almond Milk,407,494.5,0.455,75.6
+2023-11-04,Mumbai,Coconut Milk,362,372.92,0.377,99.3
+2023-11-05,Delhi,Vegan Milk,482,201.75,0.462,81.8
+2023-11-06,Delhi,Chickpea Flour,512,318.09,0.26,49.4
+2023-11-07,Pune,Almond Milk,495,249.08,0.733,73.6
+2023-11-08,Delhi,Quinoa,513,172.02,0.337,74.4
+2023-11-09,Delhi,Vegan Cheese,389,135.65,0.121,50.3
+2023-11-10,Pune,Vegan Meat,762,250.86,0.533,66.4
+2023-11-11,Bengaluru,Oat Milk,742,335.73,0.702,33.6
+2023-11-12,Bengaluru,Almond Milk,648,50.56,0.52,98.5
+2023-11-13,Mumbai,Vegan Cheese,161,488.37,0.108,79.0
+2023-11-14,Delhi,Vegan Meat,668,284.43,0.649,27.1
+2023-11-15,Kolkata,Vegan Meat,507,278.08,0.464,25.0
+2023-11-16,Delhi,Vegan Meat,239,203.75,0.552,47.7
+2023-11-17,Hyderabad,Almond Milk,441,421.38,0.512,95.4
+2023-11-18,Bengaluru,Soy Products,194,403.82,0.33,65.3
+2023-11-19,Delhi,Coconut Milk,439,228.73,0.316,70.2
+2023-11-20,Pune,Chickpea Flour,464,374.64,0.157,37.0
+2023-11-21,Pune,Almond Milk,314,60.3,0.462,37.9
+2023-11-22,Pune,Oat Milk,498,469.73,0.63,58.3
+2023-11-23,Hyderabad,Oat Milk,525,112.64,0.759,86.3
+2023-11-24,Delhi,Vegan Milk,782,421.34,0.367,29.7
+2023-11-25,Chennai,Vegan Paneer,456,154.65,0.132,82.1
+2023-11-26,Delhi,Vegan Cheese,778,444.25,0.211,88.1
+2023-11-27,Chennai,Quinoa,545,342.59,0.161,24.9
+2023-11-28,Mumbai,Vegan Paneer,428,76.17,0.498,24.6
+2023-11-29,Kolkata,Almond Milk,408,126.8,0.43,82.6
+2023-11-30,Pune,Vegan Milk,219,361.23,0.347,70.7
+2023-12-01,Hyderabad,Tofu,553,187.81,0.35,62.2
+2023-12-02,Kolkata,Vegan Paneer,185,448.97,0.28,35.6
+2023-12-03,Kolkata,Quinoa,404,422.39,0.393,81.5
+2023-12-04,Pune,Soy Products,408,266.6,0.108,40.8
+2023-12-05,Bengaluru,Soy Products,193,290.89,0.186,21.0
+2023-12-06,Bengaluru,Vegan Cheese,851,410.69,0.484,59.0
+2023-12-07,Mumbai,Vegan Meat,518,254.47,0.738,27.8
+2023-12-08,Bengaluru,Oat Milk,772,159.57,0.661,84.9
+2023-12-09,Chennai,Oat Milk,772,226.58,0.782,30.7
+2023-12-10,Hyderabad,Chickpea Flour,341,359.66,0.275,40.4
+2023-12-11,Bengaluru,Vegan Paneer,120,455.79,0.285,71.0
+2023-12-12,Bengaluru,Chickpea Flour,813,336.5,0.346,25.3
+2023-12-13,Chennai,Vegan Milk,176,494.72,0.277,23.8
+2023-12-14,Hyderabad,Soy Products,676,82.44,0.129,21.0
+2023-12-15,Chennai,Oat Milk,697,208.96,0.519,48.0
+2023-12-16,Kolkata,Vegan Milk,638,133.34,0.17,27.9
+2023-12-17,Pune,Plant-Based Protein,727,169.27,0.108,26.6
+2023-12-18,Delhi,Vegan Meat,339,396.15,0.65,50.6
+2023-12-19,Bengaluru,Vegan Milk,195,326.76,0.41,71.5
+2023-12-20,Bengaluru,Soy Products,129,485.82,0.419,43.4
+2023-12-21,Bengaluru,Plant-Based Protein,507,464.13,0.308,69.3
+2023-12-22,Bengaluru,Quinoa,132,99.86,0.339,27.6
+2023-12-23,Mumbai,Tempeh,428,123.66,0.21,94.3
+2023-12-24,Delhi,Vegan Milk,861,340.61,0.214,85.3
+2023-12-25,Kolkata,Soy Products,830,463.52,0.201,80.4
+2023-12-26,Chennai,Chickpea Flour,749,301.02,0.172,24.3
+2023-12-27,Pune,Plant-Based Protein,960,471.82,0.117,33.2
+2023-12-28,Chennai,Tofu,737,418.0,0.185,60.5
+2023-12-29,Delhi,Vegan Cheese,464,391.18,0.397,69.0
+2023-12-30,Pune,Vegan Milk,233,92.19,0.331,90.2
+2023-12-31,Chennai,Chickpea Flour,512,54.2,0.199,78.1
+2023-01-01,Hyderabad,Oat Milk,189,230.67,0.72,36.3
+2023-01-02,Bengaluru,Tofu,763,327.19,0.175,48.4
+2023-01-03,Chennai,Almond Milk,604,52.35,0.704,22.8
+2023-01-04,Hyderabad,Almond Milk,977,215.57,0.531,31.9
+2023-01-05,Kolkata,Plant-Based Protein,907,498.35,0.247,55.9
+2023-01-06,Delhi,Coconut Milk,920,316.87,0.257,53.0
+2023-01-07,Kolkata,Tofu,130,125.1,0.173,51.0
+2023-01-08,Hyderabad,Soy Products,918,279.55,0.389,28.3
+2023-01-09,Bengaluru,Soy Products,762,73.76,0.295,67.9
+2023-01-10,Mumbai,Tempeh,881,274.22,0.131,24.7
+2023-01-11,Chennai,Tempeh,847,368.46,0.415,61.4
+2023-01-12,Chennai,Oat Milk,222,380.98,0.494,49.7
+2023-01-13,Hyderabad,Quinoa,871,394.96,0.393,44.0
+2023-01-14,Hyderabad,Vegan Meat,718,273.27,0.471,74.9
+2023-01-15,Kolkata,Tempeh,477,307.34,0.335,34.8
+2023-01-16,Chennai,Coconut Milk,431,61.79,0.11,86.5
+2023-01-17,Chennai,Plant-Based Protein,612,184.43,0.476,40.7
+2023-01-18,Pune,Coconut Milk,962,428.87,0.174,84.2
+2023-01-19,Bengaluru,Tofu,802,334.03,0.12,92.3
+2023-01-20,Mumbai,Vegan Meat,879,53.16,0.423,38.0
+2023-01-21,Delhi,Tempeh,505,465.18,0.289,21.1
+2023-01-22,Delhi,Coconut Milk,391,167.77,0.199,92.5
+2023-01-23,Bengaluru,Plant-Based Protein,539,430.16,0.207,32.5
+2023-01-24,Delhi,Chickpea Flour,158,328.86,0.325,47.7
+2023-01-25,Bengaluru,Vegan Meat,890,88.89,0.495,78.6
+2023-01-26,Mumbai,Oat Milk,242,446.96,0.557,86.2
+2023-01-27,Pune,Almond Milk,615,490.8,0.458,78.0
+2023-01-28,Chennai,Chickpea Flour,458,188.91,0.479,97.4
+2023-01-29,Chennai,Almond Milk,136,374.0,0.567,27.1
+2023-01-30,Pune,Soy Products,675,491.23,0.191,52.3
+2023-01-31,Mumbai,Almond Milk,932,296.98,0.645,38.1
+2023-02-01,Bengaluru,Vegan Meat,559,113.43,0.666,37.3
+2023-02-02,Bengaluru,Vegan Paneer,1013,257.07,0.4,43.2
+2023-02-03,Kolkata,Chickpea Flour,233,210.19,0.491,83.5
+2023-02-04,Hyderabad,Soy Products,1031,295.18,0.403,80.3
+2023-02-05,Kolkata,Chickpea Flour,249,346.83,0.165,40.4
+2023-02-06,Chennai,Almond Milk,709,387.83,0.623,64.2
+2023-02-07,Pune,Vegan Milk,1082,292.42,0.299,28.4
+2023-02-08,Delhi,Soy Products,993,221.19,0.41,97.2
+2023-02-09,Delhi,Coconut Milk,219,210.5,0.403,42.1
+2023-02-10,Kolkata,Almond Milk,543,461.79,0.613,32.6
+2023-02-11,Delhi,Plant-Based Protein,972,192.54,0.443,92.5
+2023-02-12,Bengaluru,Quinoa,1180,113.32,0.181,34.7
+2023-02-13,Chennai,Tempeh,1007,190.92,0.419,97.4
+2023-02-14,Mumbai,Almond Milk,992,277.34,0.787,53.4
+2023-02-15,Kolkata,Tofu,848,335.6,0.166,90.6
+2023-02-16,Kolkata,Quinoa,298,55.67,0.324,62.2
+2023-02-17,Hyderabad,Oat Milk,1096,85.73,0.693,35.0
+2023-02-18,Chennai,Almond Milk,1021,293.36,0.684,45.1
+2023-02-19,Mumbai,Vegan Paneer,1027,256.67,0.243,59.5
+2023-02-20,Mumbai,Tempeh,493,128.19,0.385,86.1
+2023-02-21,Pune,Vegan Meat,388,113.89,0.539,56.0
+2023-02-22,Bengaluru,Quinoa,846,329.42,0.241,87.3
+2023-02-23,Mumbai,Quinoa,829,106.82,0.37,46.0
+2023-02-24,Delhi,Soy Products,310,344.88,0.497,25.8
+2023-02-25,Kolkata,Vegan Milk,901,280.69,0.222,37.0
+2023-02-26,Mumbai,Almond Milk,465,343.92,0.775,89.7
+2023-02-27,Kolkata,Almond Milk,1011,349.24,0.504,92.6
+2023-02-28,Mumbai,Quinoa,756,99.95,0.279,56.8
+2023-03-01,Delhi,Tofu,742,221.18,0.491,28.9
+2023-03-02,Delhi,Vegan Meat,173,382.96,0.767,42.4
+2023-03-03,Hyderabad,Vegan Milk,1229,421.72,0.38,87.2
+2023-03-04,Chennai,Soy Products,832,301.63,0.351,62.6
+2023-03-05,Mumbai,Oat Milk,254,366.66,0.616,27.7
+2023-03-06,Pune,Almond Milk,140,260.95,0.521,67.9
+2023-03-07,Mumbai,Almond Milk,469,384.44,0.419,92.2
+2023-03-08,Bengaluru,Almond Milk,505,203.18,0.796,70.1
+2023-03-09,Chennai,Vegan Meat,454,243.13,0.507,83.1
+2023-03-10,Chennai,Tofu,200,424.12,0.34,29.2
+2023-03-11,Chennai,Almond Milk,1174,351.14,0.732,90.3
+2023-03-12,Hyderabad,Chickpea Flour,724,243.69,0.227,54.8
+2023-03-13,Kolkata,Almond Milk,521,124.17,0.468,95.8
+2023-03-14,Pune,Oat Milk,1039,337.82,0.671,30.5
+2023-03-15,Delhi,Plant-Based Protein,1038,486.84,0.205,41.7
+2023-03-16,Mumbai,Soy Products,1268,171.03,0.263,91.3
+2023-03-17,Bengaluru,Vegan Meat,174,321.83,0.763,39.1
+2023-03-18,Bengaluru,Vegan Meat,651,262.84,0.649,57.6
+2023-03-19,Chennai,Oat Milk,369,282.46,0.402,20.6
+2023-03-20,Pune,Chickpea Flour,171,98.61,0.236,84.2
+2023-03-21,Hyderabad,Coconut Milk,470,469.29,0.259,27.0
+2023-03-22,Hyderabad,Vegan Meat,262,205.35,0.603,89.9
+2023-03-23,Chennai,Quinoa,181,252.77,0.472,33.2
+2023-03-24,Delhi,Vegan Milk,609,458.42,0.386,68.6
+2023-03-25,Hyderabad,Vegan Cheese,968,479.31,0.389,89.0
+2023-03-26,Pune,Soy Products,967,423.31,0.116,89.7
+2023-03-27,Bengaluru,Vegan Paneer,907,410.16,0.365,27.4
+2023-03-28,Kolkata,Tempeh,772,455.14,0.262,45.7
+2023-03-29,Hyderabad,Soy Products,612,340.74,0.359,91.0
+2023-03-30,Chennai,Coconut Milk,717,112.49,0.146,32.3
+2023-03-31,Mumbai,Oat Milk,876,383.44,0.612,86.3
+2023-04-01,Pune,Chickpea Flour,1089,362.7,0.313,55.9
+2023-04-02,Kolkata,Vegan Cheese,597,459.56,0.423,37.3
+2023-04-03,Hyderabad,Soy Products,1085,80.32,0.255,88.1
+2023-04-04,Delhi,Vegan Milk,220,294.14,0.445,67.2
+2023-04-05,Delhi,Vegan Paneer,579,252.56,0.332,80.7
+2023-04-06,Kolkata,Chickpea Flour,1170,55.54,0.248,22.2
+2023-04-07,Delhi,Vegan Meat,744,280.26,0.466,71.7
+2023-04-08,Chennai,Chickpea Flour,1020,475.99,0.236,61.4
+2023-04-09,Bengaluru,Tempeh,137,223.64,0.417,67.7
+2023-04-10,Hyderabad,Plant-Based Protein,1118,288.99,0.437,66.4
+2023-04-11,Pune,Vegan Meat,252,125.31,0.789,38.3
+2023-04-12,Mumbai,Vegan Milk,1253,222.89,0.116,22.5
+2023-04-13,Mumbai,Coconut Milk,590,190.94,0.159,59.0
+2023-04-14,Bengaluru,Tofu,1102,216.68,0.25,57.9
+2023-04-15,Pune,Oat Milk,1286,295.42,0.435,68.6
+2023-04-16,Pune,Oat Milk,165,486.83,0.709,98.4
+2023-04-17,Hyderabad,Vegan Meat,747,125.75,0.499,87.1
+2023-04-18,Mumbai,Coconut Milk,1088,369.06,0.171,60.6
+2023-04-19,Kolkata,Tempeh,401,423.81,0.318,33.2
+2023-04-20,Kolkata,Chickpea Flour,1285,117.73,0.427,36.6
+2023-04-21,Chennai,Vegan Meat,977,185.22,0.53,83.4
+2023-04-22,Mumbai,Tofu,972,116.59,0.441,76.9
+2023-04-23,Pune,Vegan Milk,280,316.86,0.34,48.3
+2023-04-24,Kolkata,Tempeh,171,385.64,0.32,24.6
+2023-04-25,Delhi,Almond Milk,1135,474.82,0.46,57.0
+2023-04-26,Delhi,Tempeh,993,271.37,0.221,59.3
+2023-04-27,Mumbai,Vegan Meat,772,248.55,0.642,93.5
+2023-04-28,Mumbai,Vegan Paneer,957,452.5,0.282,55.5
+2023-04-29,Kolkata,Oat Milk,1047,264.42,0.798,24.8
+2023-04-30,Chennai,Vegan Meat,856,184.3,0.496,45.0
+2023-05-01,Mumbai,Quinoa,161,487.19,0.188,78.7
+2023-05-02,Bengaluru,Plant-Based Protein,906,375.22,0.377,30.8
+2023-05-03,Pune,Tofu,532,412.0,0.212,36.9
+2023-05-04,Hyderabad,Vegan Milk,1253,354.57,0.431,43.6
+2023-05-05,Kolkata,Vegan Milk,957,425.37,0.396,31.4
+2023-05-06,Chennai,Tempeh,866,394.75,0.438,69.1
+2023-05-07,Kolkata,Almond Milk,936,176.15,0.675,22.0
+2023-05-08,Mumbai,Vegan Milk,739,334.44,0.331,75.8
+2023-05-09,Chennai,Vegan Cheese,237,441.02,0.373,29.0
+2023-05-10,Bengaluru,Coconut Milk,393,265.22,0.158,76.8
+2023-05-11,Kolkata,Tempeh,1083,230.59,0.217,32.2
+2023-05-12,Kolkata,Quinoa,147,312.47,0.437,63.9
+2023-05-13,Pune,Tofu,160,146.58,0.266,80.8
+2023-05-14,Kolkata,Vegan Meat,916,440.12,0.582,85.7
+2023-05-15,Pune,Oat Milk,823,286.83,0.585,38.8
+2023-05-16,Chennai,Chickpea Flour,439,303.48,0.148,93.3
+2023-05-17,Bengaluru,Tempeh,664,177.92,0.154,70.4
+2023-05-18,Mumbai,Almond Milk,937,192.91,0.4,60.9
+2023-05-19,Bengaluru,Vegan Paneer,421,368.14,0.125,87.1
+2023-05-20,Hyderabad,Plant-Based Protein,387,383.41,0.227,28.2
+2023-05-21,Hyderabad,Quinoa,412,429.22,0.225,83.1
+2023-05-22,Kolkata,Vegan Milk,586,459.47,0.251,97.1
+2023-05-23,Chennai,Vegan Meat,856,272.22,0.555,70.6
+2023-05-24,Kolkata,Coconut Milk,267,164.4,0.45,34.6
+2023-05-25,Delhi,Quinoa,1132,366.14,0.219,28.4
+2023-05-26,Mumbai,Vegan Milk,802,71.68,0.244,96.5
+2023-05-27,Delhi,Almond Milk,621,99.94,0.654,81.7
+2023-05-28,Hyderabad,Tempeh,1023,133.71,0.321,53.3
+2023-05-29,Bengaluru,Almond Milk,807,262.53,0.752,37.3
+2023-05-30,Chennai,Soy Products,752,182.89,0.155,72.1
+2023-05-31,Bengaluru,Vegan Milk,445,340.17,0.258,77.1
+2023-06-01,Pune,Vegan Meat,1040,179.33,0.547,24.6
+2023-06-02,Pune,Plant-Based Protein,649,170.42,0.434,21.2
+2023-06-03,Chennai,Plant-Based Protein,462,58.7,0.15,53.1
+2023-06-04,Hyderabad,Vegan Milk,529,288.92,0.338,20.8
+2023-06-05,Mumbai,Almond Milk,1099,283.56,0.671,44.9
+2023-06-06,Delhi,Vegan Meat,644,489.21,0.45,21.4
+2023-06-07,Mumbai,Almond Milk,234,169.51,0.407,43.5
+2023-06-08,Hyderabad,Soy Products,635,206.64,0.249,20.1
+2023-06-09,Mumbai,Tofu,762,488.39,0.439,21.9
+2023-06-10,Mumbai,Chickpea Flour,896,401.17,0.283,51.8
+2023-06-11,Delhi,Chickpea Flour,176,152.71,0.199,58.7
+2023-06-12,Kolkata,Tempeh,581,76.03,0.483,95.4
+2023-06-13,Chennai,Chickpea Flour,1090,295.02,0.485,26.0
+2023-06-14,Hyderabad,Vegan Meat,331,138.12,0.456,69.8
+2023-06-15,Bengaluru,Quinoa,675,116.13,0.424,70.9
+2023-06-16,Kolkata,Tempeh,735,414.44,0.479,47.0
+2023-06-17,Pune,Tempeh,631,77.28,0.376,75.2
+2023-06-18,Bengaluru,Tofu,588,153.61,0.118,53.3
+2023-06-19,Pune,Quinoa,839,209.42,0.48,97.0
+2023-06-20,Pune,Plant-Based Protein,995,392.38,0.319,34.4
+2023-06-21,Kolkata,Vegan Milk,263,250.49,0.184,24.0
+2023-06-22,Hyderabad,Vegan Meat,1036,406.91,0.742,39.4
+2023-06-23,Pune,Almond Milk,290,478.14,0.798,76.9
+2023-06-24,Bengaluru,Almond Milk,310,256.53,0.768,34.1
+2023-06-25,Pune,Plant-Based Protein,116,56.39,0.432,78.6
+2023-06-26,Chennai,Vegan Paneer,752,227.84,0.481,97.4
+2023-06-27,Chennai,Coconut Milk,544,373.25,0.199,71.2
+2023-06-28,Kolkata,Vegan Meat,252,304.29,0.709,59.9
+2023-06-29,Hyderabad,Tofu,110,210.66,0.47,38.3
+2023-06-30,Mumbai,Tofu,303,194.75,0.439,78.3
+2023-07-01,Mumbai,Plant-Based Protein,489,63.13,0.292,73.0
+2023-07-02,Bengaluru,Oat Milk,360,229.03,0.768,99.5
+2023-07-03,Hyderabad,Vegan Cheese,532,335.95,0.136,22.6
+2023-07-04,Mumbai,Vegan Meat,496,174.0,0.649,99.4
+2023-07-05,Chennai,Oat Milk,608,237.02,0.739,92.2
+2023-07-06,Bengaluru,Vegan Cheese,959,62.38,0.436,80.1
+2023-07-07,Chennai,Coconut Milk,938,116.68,0.372,38.0
+2023-07-08,Delhi,Tofu,726,303.5,0.271,46.1
+2023-07-09,Mumbai,Vegan Milk,221,243.55,0.462,87.7
+2023-07-10,Chennai,Tofu,756,420.42,0.456,63.6
+2023-07-11,Chennai,Vegan Cheese,315,183.06,0.338,22.6
+2023-07-12,Pune,Almond Milk,407,182.86,0.752,56.8
+2023-07-13,Kolkata,Chickpea Flour,798,71.44,0.391,81.9
+2023-07-14,Bengaluru,Oat Milk,222,444.15,0.616,42.6
+2023-07-15,Kolkata,Vegan Cheese,125,107.54,0.406,20.0
+2023-07-16,Hyderabad,Tempeh,530,74.59,0.489,38.1
+2023-07-17,Pune,Tofu,345,153.69,0.101,78.3
+2023-07-18,Delhi,Tempeh,277,348.37,0.397,87.9
+2023-07-19,Kolkata,Coconut Milk,341,196.38,0.385,85.3
+2023-07-20,Pune,Almond Milk,395,455.87,0.723,98.8
+2023-07-21,Pune,Tofu,532,117.32,0.252,53.2
+2023-07-22,Bengaluru,Coconut Milk,106,171.06,0.307,41.5
+2023-07-23,Bengaluru,Plant-Based Protein,303,320.7,0.219,77.2
+2023-07-24,Chennai,Tofu,171,281.23,0.304,49.5
+2023-07-25,Hyderabad,Chickpea Flour,215,131.09,0.139,84.3
+2023-07-26,Kolkata,Soy Products,187,432.71,0.238,22.5
+2023-07-27,Hyderabad,Vegan Cheese,199,146.03,0.366,32.6
+2023-07-28,Hyderabad,Vegan Meat,658,302.93,0.779,59.7
+2023-07-29,Mumbai,Coconut Milk,214,403.79,0.394,50.7
+2023-07-30,Mumbai,Quinoa,738,55.14,0.381,97.6
+2023-07-31,Chennai,Soy Products,267,367.19,0.427,63.7
+2023-08-01,Hyderabad,Chickpea Flour,125,277.16,0.387,89.0
+2023-08-02,Chennai,Vegan Milk,813,152.03,0.452,84.7
+2023-08-03,Kolkata,Oat Milk,559,192.45,0.727,60.1
+2023-08-04,Kolkata,Chickpea Flour,791,432.81,0.493,70.2
+2023-08-05,Delhi,Chickpea Flour,122,296.99,0.215,44.5
+2023-08-06,Mumbai,Tempeh,548,200.32,0.393,52.4
+2023-08-07,Pune,Chickpea Flour,666,178.59,0.273,74.8
+2023-08-08,Chennai,Quinoa,124,218.26,0.478,71.3
+2023-08-09,Pune,Soy Products,548,139.55,0.267,80.1
+2023-08-10,Delhi,Vegan Cheese,320,473.57,0.466,20.9
+2023-08-11,Pune,Vegan Cheese,794,96.4,0.319,98.3
+2023-08-12,Hyderabad,Tofu,218,311.98,0.182,61.6
+2023-08-13,Kolkata,Quinoa,518,282.56,0.396,70.5
+2023-08-14,Bengaluru,Plant-Based Protein,776,321.64,0.131,26.0
+2023-08-15,Pune,Oat Milk,292,91.43,0.64,69.9
+2023-08-16,Kolkata,Vegan Paneer,269,56.8,0.486,40.1
+2023-08-17,Bengaluru,Almond Milk,580,324.5,0.525,41.7
+2023-08-18,Delhi,Vegan Paneer,690,476.03,0.142,32.4
+2023-08-19,Kolkata,Quinoa,595,447.35,0.181,67.0
+2023-08-20,Bengaluru,Almond Milk,113,332.37,0.554,94.9
+2023-08-21,Hyderabad,Oat Milk,732,149.22,0.69,69.4
+2023-08-22,Pune,Plant-Based Protein,147,53.74,0.273,27.4
+2023-08-23,Mumbai,Tofu,708,245.31,0.203,54.8
+2023-08-24,Hyderabad,Quinoa,82,315.25,0.345,71.0
+2023-08-25,Bengaluru,Vegan Paneer,565,91.13,0.18,90.2
+2023-08-26,Delhi,Vegan Meat,222,171.86,0.499,25.0
+2023-08-27,Chennai,Vegan Paneer,573,323.03,0.369,26.5
+2023-08-28,Kolkata,Coconut Milk,674,222.48,0.297,42.7
+2023-08-29,Pune,Vegan Milk,490,384.3,0.395,61.7
+2023-08-30,Mumbai,Coconut Milk,361,142.8,0.42,46.7
+2023-08-31,Delhi,Tempeh,686,436.92,0.114,83.0
+2023-09-01,Bengaluru,Vegan Cheese,656,337.08,0.433,60.0
+2023-09-02,Bengaluru,Tempeh,169,402.79,0.268,60.0
+2023-09-03,Mumbai,Coconut Milk,88,185.47,0.301,24.5
+2023-09-04,Pune,Chickpea Flour,685,97.43,0.406,52.8
+2023-09-05,Bengaluru,Almond Milk,244,121.77,0.464,25.6
+2023-09-06,Bengaluru,Tempeh,508,446.76,0.426,74.8
+2023-09-07,Mumbai,Oat Milk,261,189.41,0.5,61.2
+2023-09-08,Kolkata,Almond Milk,305,209.21,0.731,83.1
+2023-09-09,Kolkata,Soy Products,692,197.03,0.242,60.5
+2023-09-10,Kolkata,Vegan Meat,278,456.6,0.431,86.3
+2023-09-11,Kolkata,Plant-Based Protein,409,407.52,0.454,47.6
+2023-09-12,Mumbai,Almond Milk,80,183.17,0.584,52.9
+2023-09-13,Pune,Oat Milk,219,102.9,0.466,20.2
+2023-09-14,Bengaluru,Tofu,541,281.72,0.165,26.7
+2023-09-15,Hyderabad,Quinoa,540,446.75,0.149,70.8
+2023-09-16,Mumbai,Oat Milk,146,145.35,0.524,33.4
+2023-09-17,Kolkata,Plant-Based Protein,241,201.05,0.4,65.8
+2023-09-18,Mumbai,Vegan Cheese,335,389.24,0.449,74.3
+2023-09-19,Kolkata,Coconut Milk,179,275.05,0.265,89.6
+2023-09-20,Bengaluru,Vegan Cheese,409,101.93,0.342,29.4
+2023-09-21,Chennai,Soy Products,161,361.43,0.183,51.3
+2023-09-22,Hyderabad,Vegan Milk,199,278.51,0.268,21.4
+2023-09-23,Hyderabad,Quinoa,114,263.41,0.324,70.3
+2023-09-24,Bengaluru,Tempeh,627,379.09,0.379,80.2
+2023-09-25,Chennai,Almond Milk,622,141.55,0.451,42.8
+2023-09-26,Kolkata,Vegan Cheese,185,434.74,0.453,57.3
+2023-09-27,Chennai,Almond Milk,577,455.8,0.481,25.4
+2023-09-28,Pune,Plant-Based Protein,315,293.79,0.487,25.3
+2023-09-29,Hyderabad,Vegan Meat,116,218.96,0.722,54.7
+2023-09-30,Chennai,Quinoa,97,250.87,0.128,78.3
+2023-10-01,Mumbai,Soy Products,302,258.91,0.389,72.5
+2023-10-02,Mumbai,Quinoa,308,424.12,0.437,49.9
+2023-10-03,Kolkata,Tempeh,130,96.66,0.119,66.5
+2023-10-04,Hyderabad,Coconut Milk,415,284.48,0.24,74.2
+2023-10-05,Delhi,Vegan Meat,79,143.26,0.685,50.9
+2023-10-06,Delhi,Almond Milk,288,225.84,0.463,40.7
+2023-10-07,Kolkata,Vegan Milk,343,398.44,0.441,63.3
+2023-10-08,Pune,Coconut Milk,264,236.74,0.385,50.9
+2023-10-09,Mumbai,Almond Milk,222,146.71,0.57,92.6
+2023-10-10,Delhi,Quinoa,189,84.64,0.378,50.6
+2023-10-11,Bengaluru,Soy Products,488,408.31,0.209,75.4
+2023-10-12,Kolkata,Vegan Milk,666,336.37,0.23,41.6
+2023-10-13,Delhi,Tofu,511,148.42,0.338,41.2
+2023-10-14,Kolkata,Tofu,588,400.11,0.404,35.0
+2023-10-15,Delhi,Coconut Milk,516,215.76,0.273,22.5
+2023-10-16,Kolkata,Plant-Based Protein,92,445.63,0.197,64.6
+2023-10-17,Pune,Vegan Paneer,572,243.04,0.18,61.1
+2023-10-18,Kolkata,Vegan Cheese,350,350.05,0.138,79.8
+2023-10-19,Hyderabad,Plant-Based Protein,524,485.27,0.431,92.2
+2023-10-20,Chennai,Quinoa,590,436.11,0.499,39.3
+2023-10-21,Kolkata,Vegan Cheese,276,482.52,0.457,87.9
+2023-10-22,Pune,Quinoa,80,86.1,0.225,21.3
+2023-10-23,Kolkata,Chickpea Flour,476,393.04,0.116,87.0
+2023-10-24,Mumbai,Coconut Milk,438,331.08,0.446,67.0
+2023-10-25,Hyderabad,Oat Milk,717,390.53,0.577,76.6
+2023-10-26,Mumbai,Almond Milk,222,318.58,0.771,94.3
+2023-10-27,Kolkata,Tempeh,418,145.24,0.498,98.5
+2023-10-28,Delhi,Plant-Based Protein,601,371.8,0.337,24.3
+2023-10-29,Mumbai,Vegan Cheese,518,354.89,0.249,95.3
+2023-10-30,Chennai,Tempeh,404,360.9,0.379,71.9
+2023-10-31,Bengaluru,Plant-Based Protein,177,336.17,0.34,34.3
+2023-11-01,Delhi,Plant-Based Protein,377,350.49,0.435,33.6
+2023-11-02,Delhi,Vegan Paneer,594,324.36,0.38,87.1
+2023-11-03,Pune,Oat Milk,718,291.17,0.595,52.2
+2023-11-04,Chennai,Vegan Paneer,460,174.66,0.469,66.7
+2023-11-05,Delhi,Chickpea Flour,476,366.19,0.127,38.5
+2023-11-06,Hyderabad,Oat Milk,672,447.31,0.664,36.9
+2023-11-07,Chennai,Quinoa,678,138.49,0.395,42.9
+2023-11-08,Kolkata,Almond Milk,757,63.51,0.759,69.8
+2023-11-09,Kolkata,Almond Milk,395,431.32,0.425,46.8
+2023-11-10,Kolkata,Tofu,748,417.64,0.441,95.0
+2023-11-11,Mumbai,Quinoa,623,237.3,0.167,58.0
+2023-11-12,Bengaluru,Plant-Based Protein,732,83.67,0.275,62.4
+2023-11-13,Chennai,Almond Milk,753,247.88,0.511,83.9
+2023-11-14,Pune,Chickpea Flour,232,59.23,0.431,49.2
+2023-11-15,Delhi,Vegan Cheese,291,488.92,0.168,91.9
+2023-11-16,Bengaluru,Plant-Based Protein,690,119.72,0.133,58.8
+2023-11-17,Kolkata,Quinoa,479,411.71,0.155,66.5
+2023-11-18,Pune,Chickpea Flour,525,173.14,0.295,26.6
+2023-11-19,Kolkata,Coconut Milk,670,75.64,0.267,56.7
+2023-11-20,Chennai,Almond Milk,494,350.25,0.711,89.0
+2023-11-21,Kolkata,Soy Products,689,495.25,0.456,49.7
+2023-11-22,Mumbai,Tofu,437,383.74,0.297,58.7
+2023-11-23,Mumbai,Tempeh,345,436.91,0.263,46.3
+2023-11-24,Delhi,Quinoa,642,106.7,0.179,96.1
+2023-11-25,Chennai,Plant-Based Protein,501,310.69,0.296,71.6
+2023-11-26,Delhi,Tempeh,493,217.48,0.365,31.3
+2023-11-27,Pune,Chickpea Flour,221,175.39,0.187,34.6
+2023-11-28,Bengaluru,Plant-Based Protein,536,309.48,0.324,49.7
+2023-11-29,Pune,Vegan Milk,792,452.29,0.235,78.4
+2023-11-30,Chennai,Tofu,217,352.74,0.188,37.5
+2023-12-01,Bengaluru,Oat Milk,275,168.46,0.4,89.7
+2023-12-02,Bengaluru,Vegan Meat,566,387.62,0.461,56.7
+2023-12-03,Kolkata,Vegan Cheese,157,268.76,0.468,23.2
+2023-12-04,Pune,Chickpea Flour,246,157.17,0.463,57.4
+2023-12-05,Hyderabad,Tempeh,679,119.52,0.295,54.4
+2023-12-06,Hyderabad,Soy Products,819,219.11,0.383,58.1
+2023-12-07,Mumbai,Tofu,688,70.45,0.359,38.1
+2023-12-08,Kolkata,Almond Milk,458,398.1,0.449,70.1
+2023-12-09,Pune,Vegan Meat,767,467.77,0.799,83.7
+2023-12-10,Mumbai,Vegan Paneer,261,201.2,0.286,81.9
+2023-12-11,Hyderabad,Almond Milk,241,465.07,0.678,68.9
+2023-12-12,Bengaluru,Vegan Milk,697,106.47,0.409,39.0
+2023-12-13,Chennai,Tofu,550,468.12,0.255,25.3
+2023-12-14,Chennai,Vegan Cheese,766,286.13,0.41,38.8
+2023-12-15,Mumbai,Chickpea Flour,116,482.67,0.367,94.7
+2023-12-16,Delhi,Quinoa,597,355.32,0.227,87.8
+2023-12-17,Kolkata,Tofu,827,382.58,0.211,42.5
+2023-12-18,Bengaluru,Vegan Cheese,101,372.22,0.382,69.8
+2023-12-19,Pune,Vegan Milk,355,202.99,0.132,55.4
+2023-12-20,Hyderabad,Coconut Milk,383,425.56,0.474,34.9
+2023-12-21,Bengaluru,Oat Milk,262,124.2,0.496,76.8
+2023-12-22,Kolkata,Chickpea Flour,386,251.95,0.465,35.2
+2023-12-23,Pune,Plant-Based Protein,663,388.03,0.402,66.2
+2023-12-24,Mumbai,Chickpea Flour,801,390.67,0.122,20.6
+2023-12-25,Delhi,Almond Milk,672,235.04,0.561,90.8
+2023-12-26,Delhi,Tempeh,889,191.25,0.376,41.7
+2023-12-27,Hyderabad,Vegan Paneer,259,203.95,0.272,86.5
+2023-12-28,Pune,Tofu,745,289.15,0.215,59.4
+2023-12-29,Bengaluru,Oat Milk,748,334.51,0.633,51.2
+2023-12-30,Pune,Vegan Meat,139,148.06,0.406,66.5
+2023-12-31,Chennai,Tempeh,881,285.41,0.38,52.9
+2023-01-01,Bengaluru,Almond Milk,948,87.23,0.502,82.4
+2023-01-02,Bengaluru,Vegan Cheese,168,212.69,0.137,66.8
+2023-01-03,Chennai,Almond Milk,915,402.58,0.68,69.4
+2023-01-04,Mumbai,Tempeh,305,442.9,0.416,79.9
+2023-01-05,Chennai,Vegan Cheese,854,492.61,0.204,97.6
+2023-01-06,Chennai,Chickpea Flour,423,72.66,0.121,75.4
+2023-01-07,Kolkata,Plant-Based Protein,313,326.29,0.201,66.2
+2023-01-08,Pune,Coconut Milk,871,419.31,0.291,48.1
+2023-01-09,Pune,Vegan Meat,411,144.08,0.434,57.3
+2023-01-10,Pune,Vegan Cheese,896,149.56,0.252,84.7
+2023-01-11,Pune,Vegan Cheese,469,256.61,0.221,94.6
+2023-01-12,Pune,Tofu,993,357.74,0.313,22.6
+2023-01-13,Chennai,Coconut Milk,495,122.55,0.363,97.7
+2023-01-14,Hyderabad,Almond Milk,792,80.8,0.567,29.3
+2023-01-15,Mumbai,Quinoa,149,362.0,0.359,38.5
+2023-01-16,Mumbai,Coconut Milk,915,416.6,0.345,49.9
+2023-01-17,Mumbai,Vegan Paneer,211,209.7,0.265,74.1
+2023-01-18,Pune,Tofu,177,227.87,0.173,32.5
+2023-01-19,Delhi,Oat Milk,520,125.69,0.752,64.6
+2023-01-20,Pune,Chickpea Flour,605,379.17,0.483,37.6
+2023-01-21,Kolkata,Chickpea Flour,570,220.83,0.227,42.9
+2023-01-22,Pune,Coconut Milk,424,69.37,0.412,51.9
+2023-01-23,Bengaluru,Quinoa,1004,346.12,0.103,95.5
+2023-01-24,Chennai,Tempeh,492,461.78,0.2,87.5
+2023-01-25,Bengaluru,Almond Milk,423,307.87,0.53,23.1
+2023-01-26,Mumbai,Coconut Milk,118,490.26,0.486,51.6
+2023-01-27,Hyderabad,Vegan Milk,464,351.99,0.422,95.7
+2023-01-28,Delhi,Plant-Based Protein,913,169.67,0.496,22.1
+2023-01-29,Delhi,Tempeh,790,359.62,0.148,95.1
+2023-01-30,Kolkata,Coconut Milk,755,150.2,0.223,63.7
+2023-01-31,Pune,Almond Milk,280,126.92,0.567,80.6
+2023-02-01,Pune,Coconut Milk,202,226.9,0.14,21.3
+2023-02-02,Pune,Vegan Milk,743,123.36,0.194,21.9
+2023-02-03,Chennai,Plant-Based Protein,1134,110.96,0.193,89.5
+2023-02-04,Delhi,Almond Milk,556,72.78,0.416,65.9
+2023-02-05,Bengaluru,Vegan Milk,147,312.46,0.105,83.0
+2023-02-06,Kolkata,Coconut Milk,739,228.96,0.49,63.5
+2023-02-07,Mumbai,Quinoa,870,172.17,0.462,50.0
+2023-02-08,Pune,Chickpea Flour,217,234.72,0.165,37.7
+2023-02-09,Hyderabad,Chickpea Flour,395,89.42,0.136,35.5
+2023-02-10,Pune,Vegan Cheese,790,179.3,0.212,46.6
+2023-02-11,Kolkata,Vegan Cheese,1055,391.59,0.391,58.8
+2023-02-12,Kolkata,Oat Milk,293,307.4,0.722,80.8
+2023-02-13,Delhi,Vegan Cheese,281,170.68,0.244,52.7
+2023-02-14,Bengaluru,Tofu,1018,313.18,0.235,84.2
+2023-02-15,Mumbai,Plant-Based Protein,403,448.74,0.458,43.8
+2023-02-16,Kolkata,Vegan Milk,570,158.24,0.369,86.1
+2023-02-17,Hyderabad,Oat Milk,237,70.38,0.663,62.8
+2023-02-18,Pune,Coconut Milk,160,495.39,0.112,55.6
+2023-02-19,Kolkata,Soy Products,251,126.08,0.241,80.9
+2023-02-20,Chennai,Vegan Cheese,827,493.33,0.407,54.7
+2023-02-21,Bengaluru,Vegan Paneer,808,349.41,0.3,71.6
+2023-02-22,Kolkata,Tofu,600,175.52,0.152,28.0
+2023-02-23,Kolkata,Coconut Milk,706,164.11,0.288,59.4
+2023-02-24,Hyderabad,Tempeh,995,406.16,0.341,60.9
+2023-02-25,Mumbai,Coconut Milk,446,91.97,0.486,30.8
+2023-02-26,Mumbai,Coconut Milk,1122,474.77,0.406,20.4
+2023-02-27,Pune,Oat Milk,435,395.86,0.491,75.4
+2023-02-28,Hyderabad,Vegan Cheese,870,343.51,0.2,72.0
+2023-03-01,Chennai,Plant-Based Protein,263,365.62,0.145,99.8
+2023-03-02,Bengaluru,Almond Milk,1177,199.39,0.586,21.1
+2023-03-03,Hyderabad,Vegan Paneer,1081,267.22,0.411,73.8
+2023-03-04,Delhi,Chickpea Flour,686,335.04,0.422,51.8
+2023-03-05,Kolkata,Tempeh,800,124.66,0.11,49.0
+2023-03-06,Pune,Tofu,812,203.43,0.467,52.5
+2023-03-07,Pune,Oat Milk,1260,377.08,0.714,99.6
+2023-03-08,Hyderabad,Vegan Meat,1086,326.52,0.632,40.3
+2023-03-09,Chennai,Quinoa,221,465.93,0.23,30.2
+2023-03-10,Kolkata,Plant-Based Protein,914,456.22,0.435,30.2
+2023-03-11,Pune,Tempeh,1191,257.3,0.3,45.5
+2023-03-12,Mumbai,Oat Milk,871,179.71,0.52,91.3
+2023-03-13,Chennai,Vegan Milk,539,164.52,0.105,63.2
+2023-03-14,Chennai,Quinoa,1079,454.45,0.321,85.0
+2023-03-15,Kolkata,Plant-Based Protein,899,494.98,0.19,51.2
+2023-03-16,Hyderabad,Oat Milk,288,86.47,0.732,98.1
+2023-03-17,Mumbai,Vegan Cheese,230,79.62,0.457,57.1
+2023-03-18,Kolkata,Coconut Milk,682,193.24,0.296,88.8
+2023-03-19,Chennai,Vegan Milk,552,382.33,0.367,29.6
+2023-03-20,Delhi,Vegan Cheese,427,411.84,0.27,99.6
+2023-03-21,Mumbai,Vegan Cheese,1037,353.17,0.407,44.6
+2023-03-22,Kolkata,Tofu,1057,154.64,0.19,64.1
+2023-03-23,Bengaluru,Vegan Milk,687,313.5,0.317,26.9
+2023-03-24,Mumbai,Soy Products,1267,263.37,0.127,23.8
+2023-03-25,Bengaluru,Quinoa,1218,285.45,0.209,51.9
+2023-03-26,Delhi,Plant-Based Protein,892,119.26,0.491,63.6
+2023-03-27,Delhi,Plant-Based Protein,1173,83.59,0.463,99.7
+2023-03-28,Delhi,Coconut Milk,1030,201.79,0.477,62.4
+2023-03-29,Chennai,Chickpea Flour,1210,488.83,0.433,44.2
+2023-03-30,Delhi,Plant-Based Protein,864,468.79,0.37,44.6
+2023-03-31,Delhi,Plant-Based Protein,773,405.51,0.227,66.4
+2023-04-01,Hyderabad,Coconut Milk,1084,260.03,0.131,33.3
+2023-04-02,Mumbai,Tempeh,1297,253.28,0.242,52.1
+2023-04-03,Kolkata,Chickpea Flour,1283,50.08,0.346,69.3
+2023-04-04,Pune,Oat Milk,594,254.92,0.566,78.4
+2023-04-05,Hyderabad,Vegan Paneer,361,131.23,0.205,62.0
+2023-04-06,Bengaluru,Plant-Based Protein,1145,183.81,0.165,74.0
+2023-04-07,Delhi,Vegan Meat,854,364.19,0.486,23.4
+2023-04-08,Bengaluru,Almond Milk,245,102.42,0.502,43.6
+2023-04-09,Delhi,Quinoa,922,316.75,0.159,33.8
+2023-04-10,Chennai,Vegan Milk,306,244.75,0.338,26.4
+2023-04-11,Pune,Coconut Milk,678,276.12,0.18,45.2
+2023-04-12,Bengaluru,Tempeh,1197,211.91,0.223,35.6
+2023-04-13,Chennai,Vegan Meat,506,494.49,0.53,51.5
+2023-04-14,Delhi,Chickpea Flour,1062,261.28,0.269,99.7
+2023-04-15,Pune,Almond Milk,1170,117.11,0.714,69.4
+2023-04-16,Kolkata,Almond Milk,1145,55.81,0.491,65.4
+2023-04-17,Chennai,Vegan Paneer,876,221.43,0.122,68.0
+2023-04-18,Mumbai,Vegan Paneer,573,147.35,0.277,23.9
+2023-04-19,Bengaluru,Quinoa,1086,314.6,0.241,84.0
+2023-04-20,Pune,Vegan Paneer,1084,334.16,0.414,67.9
+2023-04-21,Kolkata,Quinoa,1235,293.5,0.342,37.6
+2023-04-22,Kolkata,Vegan Meat,788,133.18,0.424,68.3
+2023-04-23,Bengaluru,Tofu,731,152.05,0.367,26.4
+2023-04-24,Chennai,Quinoa,316,133.01,0.181,50.9
+2023-04-25,Pune,Tempeh,585,280.27,0.293,50.6
+2023-04-26,Kolkata,Coconut Milk,294,277.56,0.125,25.7
+2023-04-27,Kolkata,Vegan Cheese,1266,140.83,0.203,29.1
+2023-04-28,Kolkata,Soy Products,177,133.37,0.317,71.6
+2023-04-29,Hyderabad,Coconut Milk,1207,428.97,0.219,26.2
+2023-04-30,Delhi,Almond Milk,271,105.48,0.607,39.7
+2023-05-01,Hyderabad,Soy Products,1252,357.94,0.48,31.4
+2023-05-02,Chennai,Quinoa,755,84.54,0.102,73.6
+2023-05-03,Mumbai,Chickpea Flour,591,270.34,0.266,21.9
+2023-05-04,Hyderabad,Oat Milk,325,94.29,0.783,67.9
+2023-05-05,Kolkata,Vegan Cheese,392,93.63,0.172,83.8
+2023-05-06,Bengaluru,Coconut Milk,740,263.79,0.469,25.8
+2023-05-07,Bengaluru,Almond Milk,851,429.69,0.53,75.0
+2023-05-08,Pune,Plant-Based Protein,942,270.44,0.352,79.2
+2023-05-09,Pune,Soy Products,142,137.65,0.424,41.8
+2023-05-10,Delhi,Quinoa,538,284.85,0.127,34.5
+2023-05-11,Chennai,Coconut Milk,1113,343.52,0.284,74.1
+2023-05-12,Pune,Soy Products,753,76.63,0.353,81.5
+2023-05-13,Chennai,Chickpea Flour,298,477.17,0.452,92.6
+2023-05-14,Hyderabad,Almond Milk,352,209.95,0.668,58.7
+2023-05-15,Kolkata,Vegan Cheese,775,309.02,0.165,57.7
+2023-05-16,Kolkata,Quinoa,747,144.55,0.397,22.0
+2023-05-17,Bengaluru,Soy Products,974,303.75,0.204,75.6
+2023-05-18,Chennai,Almond Milk,989,380.76,0.644,59.1
+2023-05-19,Kolkata,Oat Milk,404,238.59,0.64,61.1
+2023-05-20,Hyderabad,Coconut Milk,127,273.31,0.214,78.8
+2023-05-21,Chennai,Quinoa,751,473.66,0.17,57.7
+2023-05-22,Mumbai,Vegan Paneer,889,212.74,0.15,40.3
+2023-05-23,Hyderabad,Oat Milk,415,272.53,0.449,67.0
+2023-05-24,Bengaluru,Vegan Cheese,985,243.35,0.4,93.0
+2023-05-25,Hyderabad,Coconut Milk,311,170.96,0.179,39.7
+2023-05-26,Bengaluru,Almond Milk,707,314.6,0.571,69.2
+2023-05-27,Mumbai,Soy Products,883,397.7,0.386,66.3
+2023-05-28,Delhi,Vegan Cheese,973,56.24,0.36,73.5
+2023-05-29,Hyderabad,Coconut Milk,1097,59.06,0.162,90.9
+2023-05-30,Kolkata,Tofu,707,348.36,0.372,94.5
+2023-05-31,Bengaluru,Vegan Cheese,867,179.25,0.452,23.9
+2023-06-01,Pune,Almond Milk,258,50.42,0.761,22.0
+2023-06-02,Delhi,Chickpea Flour,546,210.46,0.465,23.2
+2023-06-03,Kolkata,Vegan Paneer,816,469.26,0.348,84.3
+2023-06-04,Chennai,Soy Products,510,218.28,0.455,32.1
+2023-06-05,Kolkata,Vegan Paneer,449,74.51,0.173,97.2
+2023-06-06,Bengaluru,Soy Products,757,376.75,0.247,31.8
+2023-06-07,Mumbai,Plant-Based Protein,430,336.23,0.259,20.5
+2023-06-08,Pune,Chickpea Flour,946,407.78,0.229,81.2
+2023-06-09,Pune,Vegan Meat,773,338.71,0.41,83.0
+2023-06-10,Kolkata,Plant-Based Protein,220,161.84,0.227,84.7
+2023-06-11,Bengaluru,Vegan Meat,412,436.41,0.743,81.2
+2023-06-12,Hyderabad,Plant-Based Protein,796,475.26,0.373,46.5
+2023-06-13,Hyderabad,Chickpea Flour,338,159.61,0.222,25.1
+2023-06-14,Mumbai,Plant-Based Protein,114,250.43,0.134,74.6
+2023-06-15,Kolkata,Quinoa,904,475.59,0.225,88.7
+2023-06-16,Hyderabad,Vegan Cheese,796,383.89,0.371,40.2
+2023-06-17,Mumbai,Vegan Milk,271,74.14,0.387,58.0
+2023-06-18,Pune,Soy Products,478,125.73,0.435,63.9
+2023-06-19,Bengaluru,Oat Milk,662,188.54,0.591,83.4
+2023-06-20,Mumbai,Oat Milk,1000,231.0,0.588,76.5
+2023-06-21,Chennai,Vegan Meat,395,112.66,0.645,44.5
+2023-06-22,Bengaluru,Plant-Based Protein,437,438.12,0.193,75.6
+2023-06-23,Pune,Vegan Cheese,386,398.98,0.257,31.1
+2023-06-24,Pune,Oat Milk,615,489.1,0.548,48.6
+2023-06-25,Hyderabad,Vegan Cheese,590,248.3,0.452,60.4
+2023-06-26,Chennai,Almond Milk,232,492.23,0.5,25.9
+2023-06-27,Pune,Almond Milk,653,236.82,0.569,82.8
+2023-06-28,Mumbai,Tofu,857,341.94,0.268,56.6
+2023-06-29,Bengaluru,Soy Products,790,280.79,0.228,67.7
+2023-06-30,Kolkata,Almond Milk,498,464.31,0.538,24.4
+2023-07-01,Hyderabad,Tofu,882,97.43,0.322,61.0
+2023-07-02,Pune,Plant-Based Protein,842,388.78,0.393,90.1
+2023-07-03,Kolkata,Vegan Meat,307,367.5,0.523,39.4
+2023-07-04,Mumbai,Quinoa,763,369.95,0.194,80.0
+2023-07-05,Delhi,Plant-Based Protein,194,154.69,0.4,42.0
+2023-07-06,Hyderabad,Vegan Cheese,169,253.49,0.396,74.9
+2023-07-07,Chennai,Coconut Milk,869,397.93,0.369,22.5
+2023-07-08,Bengaluru,Coconut Milk,130,413.63,0.228,65.0
+2023-07-09,Pune,Plant-Based Protein,777,448.93,0.259,89.0
+2023-07-10,Chennai,Tofu,558,436.44,0.23,96.3
+2023-07-11,Mumbai,Plant-Based Protein,385,422.39,0.1,44.6
+2023-07-12,Hyderabad,Vegan Meat,295,80.68,0.475,64.4
+2023-07-13,Kolkata,Tempeh,450,219.59,0.45,92.4
+2023-07-14,Chennai,Vegan Milk,373,98.06,0.481,24.8
+2023-07-15,Kolkata,Coconut Milk,344,194.18,0.166,82.7
+2023-07-16,Pune,Vegan Milk,625,105.73,0.128,92.8
+2023-07-17,Chennai,Vegan Meat,776,295.08,0.431,96.4
+2023-07-18,Mumbai,Tofu,804,125.96,0.442,21.1
+2023-07-19,Delhi,Vegan Meat,781,276.11,0.406,84.2
+2023-07-20,Kolkata,Tempeh,587,276.67,0.451,96.2
+2023-07-21,Pune,Soy Products,573,365.42,0.178,55.8
+2023-07-22,Delhi,Plant-Based Protein,621,235.04,0.365,29.5
+2023-07-23,Bengaluru,Plant-Based Protein,729,149.23,0.174,96.1
+2023-07-24,Chennai,Soy Products,298,486.33,0.394,76.0
+2023-07-25,Kolkata,Quinoa,845,113.54,0.405,28.7
+2023-07-26,Kolkata,Plant-Based Protein,391,398.86,0.237,70.2
+2023-07-27,Kolkata,Vegan Cheese,202,472.13,0.467,91.0
+2023-07-28,Kolkata,Vegan Paneer,812,419.15,0.325,73.7
+2023-07-29,Pune,Soy Products,570,421.16,0.376,64.2
+2023-07-30,Delhi,Vegan Meat,417,485.48,0.663,65.2
+2023-07-31,Delhi,Chickpea Flour,539,286.74,0.404,77.0
+2023-08-01,Pune,Quinoa,701,131.07,0.144,90.7
+2023-08-02,Kolkata,Almond Milk,607,61.41,0.676,45.3
+2023-08-03,Bengaluru,Almond Milk,548,158.36,0.555,26.4
+2023-08-04,Pune,Chickpea Flour,495,154.22,0.44,51.8
+2023-08-05,Delhi,Chickpea Flour,315,466.73,0.165,97.3
+2023-08-06,Bengaluru,Quinoa,263,249.7,0.213,26.5
+2023-08-07,Hyderabad,Vegan Paneer,625,185.66,0.34,36.1
+2023-08-08,Pune,Vegan Meat,167,51.73,0.601,66.7
+2023-08-09,Kolkata,Quinoa,122,191.32,0.3,37.3
+2023-08-10,Kolkata,Vegan Milk,145,269.32,0.377,40.9
+2023-08-11,Hyderabad,Vegan Paneer,686,135.65,0.467,64.3
+2023-08-12,Delhi,Vegan Meat,393,190.49,0.69,83.7
+2023-08-13,Bengaluru,Vegan Milk,793,406.08,0.341,47.1
+2023-08-14,Delhi,Chickpea Flour,688,227.77,0.121,52.2
+2023-08-15,Bengaluru,Chickpea Flour,615,210.64,0.354,34.9
+2023-08-16,Hyderabad,Quinoa,159,318.4,0.294,22.1
+2023-08-17,Delhi,Vegan Milk,765,371.81,0.483,54.2
+2023-08-18,Pune,Vegan Meat,712,286.27,0.683,40.2
+2023-08-19,Bengaluru,Tempeh,164,142.69,0.1,23.1
+2023-08-20,Hyderabad,Soy Products,247,348.49,0.436,64.1
+2023-08-21,Delhi,Oat Milk,584,320.11,0.693,81.6
+2023-08-22,Delhi,Vegan Milk,314,341.81,0.127,91.8
+2023-08-23,Pune,Vegan Paneer,303,417.09,0.339,51.5
+2023-08-24,Kolkata,Vegan Milk,310,441.34,0.135,82.1
+2023-08-25,Mumbai,Tofu,200,243.66,0.166,76.5
+2023-08-26,Chennai,Almond Milk,509,138.42,0.485,23.3
+2023-08-27,Chennai,Almond Milk,455,436.07,0.667,54.8
+2023-08-28,Pune,Soy Products,562,468.57,0.311,40.7
+2023-08-29,Hyderabad,Coconut Milk,564,104.59,0.221,62.6
+2023-08-30,Delhi,Soy Products,478,124.81,0.252,69.4
+2023-08-31,Delhi,Vegan Paneer,561,465.17,0.405,67.3
+2023-09-01,Chennai,Vegan Milk,399,61.14,0.2,52.6
+2023-09-02,Bengaluru,Quinoa,164,377.61,0.425,40.6
+2023-09-03,Delhi,Vegan Cheese,328,278.01,0.442,80.0
+2023-09-04,Pune,Tofu,163,81.37,0.457,51.0
+2023-09-05,Hyderabad,Vegan Meat,550,426.39,0.745,45.3
+2023-09-06,Bengaluru,Soy Products,99,72.35,0.349,25.0
+2023-09-07,Mumbai,Coconut Milk,512,201.77,0.172,42.5
+2023-09-08,Kolkata,Chickpea Flour,382,402.35,0.4,56.5
+2023-09-09,Delhi,Coconut Milk,199,277.21,0.407,25.0
+2023-09-10,Bengaluru,Almond Milk,149,66.41,0.421,86.7
+2023-09-11,Chennai,Soy Products,355,429.8,0.205,53.7
+2023-09-12,Bengaluru,Oat Milk,361,309.93,0.628,46.6
+2023-09-13,Chennai,Tempeh,220,231.91,0.497,89.5
+2023-09-14,Bengaluru,Oat Milk,403,178.07,0.607,87.9
+2023-09-15,Bengaluru,Tofu,257,140.66,0.206,33.6
+2023-09-16,Delhi,Chickpea Flour,339,100.98,0.169,63.8
+2023-09-17,Bengaluru,Plant-Based Protein,230,204.47,0.441,64.7
+2023-09-18,Bengaluru,Tempeh,648,384.55,0.313,88.9
+2023-09-19,Delhi,Vegan Paneer,77,227.34,0.44,47.7
+2023-09-20,Kolkata,Chickpea Flour,544,410.92,0.164,63.0
+2023-09-21,Mumbai,Coconut Milk,526,172.2,0.226,87.6
+2023-09-22,Kolkata,Soy Products,552,354.38,0.22,34.7
+2023-09-23,Chennai,Plant-Based Protein,370,151.61,0.347,23.2
+2023-09-24,Chennai,Tofu,366,116.58,0.494,36.7
+2023-09-25,Kolkata,Quinoa,198,396.08,0.27,65.2
+2023-09-26,Chennai,Coconut Milk,91,250.62,0.427,90.8
+2023-09-27,Delhi,Almond Milk,409,460.95,0.555,86.4
