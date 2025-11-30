@@ -530,6 +530,11 @@ if __name__ == '__main__':
     print("  POST /optimize_supply_chain - Supply chain optimization")
     print("  POST /combined_intelligence - Combined AI decision engine")
     print("=" * 60)
-    print("\nServer running on http://0.0.0.0:5000\n")
     
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    # Get port from environment variable (for Heroku, Cloud platforms)
+    port = int(os.environ.get('PORT', 5000))
+    debug_mode = os.environ.get('DEBUG', 'True').lower() == 'true'
+    
+    print(f"\nServer running on http://0.0.0.0:{port}\n")
+    
+    app.run(host='0.0.0.0', port=port, debug=debug_mode)
